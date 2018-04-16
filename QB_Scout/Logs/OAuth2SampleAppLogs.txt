@@ -1,0 +1,1711 @@
+1/18/2018 5:02:52 PM: Fetching Discovery Data..
+1/18/2018 5:02:54 PM: Discovery Data obtained..
+1/18/2018 5:02:54 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:02:54 PM: Setting up Authorize url.
+1/18/2018 5:02:54 PM: Calling AuthorizeUrl.
+1/18/2018 5:03:50 PM: Fetching Discovery Data..
+1/18/2018 5:03:50 PM: Discovery Data obtained..
+1/18/2018 5:03:50 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:03:50 PM: Setting up Authorize url.
+1/18/2018 5:03:50 PM: Calling AuthorizeUrl.
+1/18/2018 5:03:51 PM: Fetching Discovery Data..
+1/18/2018 5:03:52 PM: Discovery Data obtained..
+1/18/2018 5:03:52 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:03:52 PM: Setting up Authorize url.
+1/18/2018 5:03:52 PM: Calling AuthorizeUrl.
+1/18/2018 5:04:02 PM: Invalid State.
+1/18/2018 5:04:05 PM: Fetching Discovery Data..
+1/18/2018 5:04:06 PM: Discovery Data obtained..
+1/18/2018 5:04:06 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:04:06 PM: Setting up Authorize url.
+1/18/2018 5:04:06 PM: Calling AuthorizeUrl.
+1/18/2018 5:04:16 PM: Fetching Discovery Data..
+1/18/2018 5:04:17 PM: Discovery Data obtained..
+1/18/2018 5:04:17 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:04:17 PM: Setting up Authorize url.
+1/18/2018 5:04:17 PM: Calling AuthorizeUrl.
+1/18/2018 5:04:29 PM: Invalid State.
+1/18/2018 5:05:01 PM: Fetching Discovery Data..
+1/18/2018 5:05:05 PM: Discovery Data obtained..
+1/18/2018 5:05:05 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:05:05 PM: Setting up Authorize url.
+1/18/2018 5:05:05 PM: Calling AuthorizeUrl.
+1/18/2018 5:05:09 PM: Authorization code obtained..
+1/18/2018 5:05:09 PM: Exchanging code for tokens..
+1/18/2018 5:05:10 PM: Refresh token obtained..
+1/18/2018 5:05:10 PM: Access token obtained..
+1/18/2018 5:05:10 PM: Id token obtained..
+1/18/2018 5:05:10 PM: Making IsIdToken Valid Call..
+1/18/2018 5:05:10 PM: Validating Id Token..
+1/18/2018 5:05:10 PM: Calling UserInfo.
+1/18/2018 5:05:10 PM: Making Get User Info Call..
+1/18/2018 5:05:12 PM: Get User Info Call completed..
+1/18/2018 5:35:15 PM: Fetching Discovery Data..
+1/18/2018 5:35:16 PM: Discovery Data obtained..
+1/18/2018 5:35:16 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:35:16 PM: Setting up Authorize url.
+1/18/2018 5:35:16 PM: Calling AuthorizeUrl.
+1/18/2018 5:36:04 PM: Fetching Discovery Data..
+1/18/2018 5:36:04 PM: Discovery Data obtained..
+1/18/2018 5:36:04 PM: Intiating OAuth2 call to get code..
+1/18/2018 5:36:05 PM: Setting up Authorize url.
+1/18/2018 5:36:05 PM: Calling AuthorizeUrl.
+1/18/2018 5:36:16 PM: Invalid State.
+2/8/2018 6:08:00 PM: Fetching Discovery Data..
+2/8/2018 6:08:03 PM: Discovery Data obtained..
+2/8/2018 6:08:03 PM: Intiating OAuth2 call to get code..
+2/8/2018 6:08:03 PM: Setting up Authorize url.
+2/8/2018 6:08:03 PM: Calling AuthorizeUrl.
+2/8/2018 6:08:56 PM: Fetching Discovery Data..
+2/8/2018 6:08:57 PM: Discovery Data obtained..
+2/8/2018 6:08:57 PM: Intiating OAuth2 call to get code..
+2/8/2018 6:08:57 PM: Setting up Authorize url.
+2/8/2018 6:08:57 PM: Calling AuthorizeUrl.
+2/8/2018 6:09:03 PM: Invalid State.
+2/8/2018 6:10:06 PM: Fetching Discovery Data..
+2/8/2018 6:10:08 PM: Discovery Data obtained..
+2/8/2018 6:10:08 PM: Intiating OAuth2 call to get code..
+2/8/2018 6:10:08 PM: Setting up Authorize url.
+2/8/2018 6:10:08 PM: Calling AuthorizeUrl.
+2/8/2018 6:22:38 PM: Fetching Discovery Data..
+2/8/2018 6:22:40 PM: Discovery Data obtained..
+2/8/2018 6:22:40 PM: Intiating OAuth2 call to get code..
+2/8/2018 6:22:40 PM: Setting up Authorize url.
+2/8/2018 6:22:40 PM: Calling AuthorizeUrl.
+2/8/2018 6:46:00 PM: Fetching Discovery Data..
+2/8/2018 6:46:02 PM: Discovery Data obtained..
+2/8/2018 6:46:02 PM: Intiating OAuth2 call to get code..
+2/8/2018 6:46:02 PM: Setting up Authorize url.
+2/8/2018 6:46:02 PM: Calling AuthorizeUrl.
+2/8/2018 6:46:03 PM: Authorization code obtained..
+2/8/2018 6:46:03 PM: Exchanging code for tokens..
+2/8/2018 6:46:04 PM: Refresh token obtained..
+2/8/2018 6:46:04 PM: Access token obtained..
+2/8/2018 6:46:04 PM: Id token obtained..
+2/8/2018 6:46:04 PM: Making IsIdToken Valid Call..
+2/8/2018 6:46:04 PM: Validating Id Token..
+2/8/2018 6:46:04 PM: Calling UserInfo.
+2/8/2018 6:46:04 PM: Making Get User Info Call..
+2/8/2018 6:46:06 PM: Get User Info Call completed..
+2/8/2018 6:50:30 PM: Fetching Discovery Data..
+2/8/2018 6:50:33 PM: Discovery Data obtained..
+2/8/2018 6:50:33 PM: Intiating OAuth2 call to get code..
+2/8/2018 6:50:33 PM: Setting up Authorize url.
+2/8/2018 6:50:33 PM: Calling AuthorizeUrl.
+2/8/2018 6:50:34 PM: Authorization code obtained..
+2/8/2018 6:50:34 PM: Exchanging code for tokens..
+2/8/2018 6:50:35 PM: Refresh token obtained..
+2/8/2018 6:50:35 PM: Access token obtained..
+2/8/2018 6:50:35 PM: Id token obtained..
+2/8/2018 6:50:35 PM: Making IsIdToken Valid Call..
+2/8/2018 6:50:35 PM: Validating Id Token..
+2/8/2018 6:50:35 PM: Calling UserInfo.
+2/8/2018 6:50:35 PM: Making Get User Info Call..
+2/8/2018 6:50:36 PM: Get User Info Call completed..
+2/8/2018 7:29:50 PM: Fetching Discovery Data..
+2/8/2018 7:29:52 PM: Discovery Data obtained..
+2/8/2018 7:29:52 PM: Intiating OAuth2 call to get code..
+2/8/2018 7:29:52 PM: Setting up Authorize url.
+2/8/2018 7:29:52 PM: Calling AuthorizeUrl.
+2/8/2018 7:30:24 PM: Fetching Discovery Data..
+2/8/2018 7:30:24 PM: Discovery Data obtained..
+2/8/2018 7:30:24 PM: Intiating OAuth2 call to get code..
+2/8/2018 7:30:24 PM: Setting up Authorize url.
+2/8/2018 7:30:24 PM: Calling AuthorizeUrl.
+2/8/2018 7:30:25 PM: Invalid State.
+2/8/2018 7:31:16 PM: Fetching Discovery Data..
+2/8/2018 7:31:18 PM: Discovery Data obtained..
+2/8/2018 7:31:18 PM: Intiating OAuth2 call to get code..
+2/8/2018 7:31:18 PM: Setting up Authorize url.
+2/8/2018 7:31:18 PM: Calling AuthorizeUrl.
+2/8/2018 7:31:18 PM: Authorization code obtained..
+2/8/2018 7:31:18 PM: Exchanging code for tokens..
+2/8/2018 7:31:19 PM: Refresh token obtained..
+2/8/2018 7:31:19 PM: Access token obtained..
+2/8/2018 7:31:19 PM: Id token obtained..
+2/8/2018 7:31:19 PM: Making IsIdToken Valid Call..
+2/8/2018 7:31:19 PM: Validating Id Token..
+2/8/2018 7:31:19 PM: Calling UserInfo.
+2/8/2018 7:31:19 PM: Making Get User Info Call..
+2/8/2018 7:31:20 PM: Get User Info Call completed..
+2/8/2018 7:33:23 PM: SIWI call does not returns realm for QBO qbo api call..
+2/8/2018 7:34:11 PM: SIWI call does not returns realm for QBO qbo api call..
+2/12/2018 11:20:04 AM: Fetching Discovery Data..
+2/12/2018 11:20:06 AM: Discovery Data obtained..
+2/12/2018 11:20:06 AM: Intiating OAuth2 call to get code..
+2/12/2018 11:20:06 AM: Setting up Authorize url.
+2/12/2018 11:20:06 AM: Calling AuthorizeUrl.
+2/12/2018 11:20:07 AM: Authorization code obtained..
+2/12/2018 11:20:07 AM: Exchanging code for tokens..
+2/12/2018 11:20:08 AM: Refresh token obtained..
+2/12/2018 11:20:08 AM: Access token obtained..
+2/12/2018 11:20:08 AM: Id token obtained..
+2/12/2018 11:20:08 AM: Making IsIdToken Valid Call..
+2/12/2018 11:20:08 AM: Validating Id Token..
+2/12/2018 11:20:08 AM: Calling UserInfo.
+2/12/2018 11:20:08 AM: Making Get User Info Call..
+2/12/2018 11:20:09 AM: Get User Info Call completed..
+2/12/2018 11:20:32 AM: Fetching Discovery Data..
+2/12/2018 11:20:34 AM: Discovery Data obtained..
+2/12/2018 11:20:34 AM: Intiating OAuth2 call to get code..
+2/12/2018 11:20:34 AM: Setting up Authorize url.
+2/12/2018 11:20:34 AM: Calling AuthorizeUrl.
+2/12/2018 11:21:58 AM: Fetching Discovery Data..
+2/12/2018 11:22:01 AM: Discovery Data obtained..
+2/12/2018 11:22:01 AM: Intiating OAuth2 call to get code..
+2/12/2018 11:22:01 AM: Setting up Authorize url.
+2/12/2018 11:22:01 AM: Calling AuthorizeUrl.
+2/14/2018 11:13:24 AM: Fetching Discovery Data..
+2/14/2018 11:13:27 AM: Discovery Data obtained..
+2/14/2018 11:13:27 AM: Intiating OAuth2 call to get code..
+2/14/2018 11:13:27 AM: Setting up Authorize url.
+2/14/2018 11:13:27 AM: Calling AuthorizeUrl.
+2/15/2018 6:34:18 PM: Fetching Discovery Data..
+2/15/2018 6:34:20 PM: Discovery Data obtained..
+2/15/2018 6:34:20 PM: Intiating OAuth2 call to get code..
+2/15/2018 6:34:20 PM: Setting up Authorize url.
+2/15/2018 6:34:20 PM: Calling AuthorizeUrl.
+2/16/2018 9:15:53 AM: Fetching Discovery Data..
+2/16/2018 9:15:56 AM: Discovery Data obtained..
+2/16/2018 9:15:56 AM: Intiating OAuth2 call to get code..
+2/16/2018 9:15:56 AM: Setting up Authorize url.
+2/16/2018 9:15:56 AM: Calling AuthorizeUrl.
+2/16/2018 9:16:06 AM: Fetching Discovery Data..
+2/16/2018 9:16:07 AM: Discovery Data obtained..
+2/16/2018 9:16:07 AM: Intiating OAuth2 call to get code..
+2/16/2018 9:16:07 AM: Setting up Authorize url.
+2/16/2018 9:16:07 AM: Calling AuthorizeUrl.
+2/17/2018 8:39:58 AM: Fetching Discovery Data..
+2/17/2018 8:40:02 AM: Discovery Data obtained..
+2/17/2018 8:40:02 AM: Intiating OAuth2 call to get code..
+2/17/2018 8:40:02 AM: Setting up Authorize url.
+2/17/2018 8:40:02 AM: Calling AuthorizeUrl.
+2/17/2018 8:57:23 PM: Fetching Discovery Data..
+2/17/2018 8:57:25 PM: Fetching Discovery Data..
+2/17/2018 8:57:25 PM: Discovery Data obtained..
+2/17/2018 8:57:25 PM: Intiating OAuth2 call to get code..
+2/17/2018 8:57:25 PM: Setting up Authorize url.
+2/17/2018 8:57:25 PM: Calling AuthorizeUrl.
+2/17/2018 8:57:26 PM: Discovery Data obtained..
+2/17/2018 8:57:26 PM: Intiating OAuth2 call to get code..
+2/17/2018 8:57:26 PM: Setting up Authorize url.
+2/17/2018 8:57:26 PM: Calling AuthorizeUrl.
+2/17/2018 8:57:30 PM: Invalid State.
+2/17/2018 9:00:18 PM: Fetching Discovery Data..
+2/17/2018 9:00:21 PM: Discovery Data obtained..
+2/17/2018 9:00:21 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:00:21 PM: Setting up Authorize url.
+2/17/2018 9:00:21 PM: Calling AuthorizeUrl.
+2/17/2018 9:02:19 PM: Fetching Discovery Data..
+2/17/2018 9:02:21 PM: Discovery Data obtained..
+2/17/2018 9:02:21 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:02:21 PM: Setting up Authorize url.
+2/17/2018 9:02:21 PM: Calling AuthorizeUrl.
+2/17/2018 9:02:22 PM: Authorization code obtained..
+2/17/2018 9:02:22 PM: Exchanging code for tokens..
+2/17/2018 9:02:22 PM: Refresh token obtained..
+2/17/2018 9:02:22 PM: Access token obtained..
+2/17/2018 9:02:22 PM: Id token obtained..
+2/17/2018 9:02:22 PM: Making IsIdToken Valid Call..
+2/17/2018 9:02:22 PM: Validating Id Token..
+2/17/2018 9:02:22 PM: Calling UserInfo.
+2/17/2018 9:02:22 PM: Making Get User Info Call..
+2/17/2018 9:02:23 PM: Get User Info Call completed..
+2/17/2018 9:05:45 PM: Fetching Discovery Data..
+2/17/2018 9:05:47 PM: Discovery Data obtained..
+2/17/2018 9:05:47 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:05:47 PM: Setting up Authorize url.
+2/17/2018 9:05:47 PM: Calling AuthorizeUrl.
+2/17/2018 9:05:48 PM: Authorization code obtained..
+2/17/2018 9:05:48 PM: Exchanging code for tokens..
+2/17/2018 9:05:49 PM: Refresh token obtained..
+2/17/2018 9:05:49 PM: Access token obtained..
+2/17/2018 9:05:49 PM: Id token obtained..
+2/17/2018 9:05:49 PM: Making IsIdToken Valid Call..
+2/17/2018 9:05:49 PM: Validating Id Token..
+2/17/2018 9:05:49 PM: Calling UserInfo.
+2/17/2018 9:05:49 PM: Making Get User Info Call..
+2/17/2018 9:05:49 PM: Get User Info Call completed..
+2/17/2018 9:10:22 PM: Fetching Discovery Data..
+2/17/2018 9:10:24 PM: Discovery Data obtained..
+2/17/2018 9:10:24 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:10:24 PM: Setting up Authorize url.
+2/17/2018 9:10:24 PM: Calling AuthorizeUrl.
+2/17/2018 9:10:25 PM: Authorization code obtained..
+2/17/2018 9:10:25 PM: Exchanging code for tokens..
+2/17/2018 9:10:25 PM: Refresh token obtained..
+2/17/2018 9:10:25 PM: Access token obtained..
+2/17/2018 9:10:25 PM: Id token obtained..
+2/17/2018 9:10:25 PM: Making IsIdToken Valid Call..
+2/17/2018 9:10:25 PM: Validating Id Token..
+2/17/2018 9:10:25 PM: Calling UserInfo.
+2/17/2018 9:10:25 PM: Making Get User Info Call..
+2/17/2018 9:10:26 PM: Get User Info Call completed..
+2/17/2018 9:55:31 PM: Fetching Discovery Data..
+2/17/2018 9:55:34 PM: Discovery Data obtained..
+2/17/2018 9:55:34 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:55:34 PM: Setting up Authorize url.
+2/17/2018 9:55:34 PM: Calling AuthorizeUrl.
+2/17/2018 9:55:35 PM: Authorization code obtained..
+2/17/2018 9:55:35 PM: Exchanging code for tokens..
+2/17/2018 9:55:35 PM: Refresh token obtained..
+2/17/2018 9:55:35 PM: Access token obtained..
+2/17/2018 9:55:35 PM: Id token obtained..
+2/17/2018 9:55:35 PM: Making IsIdToken Valid Call..
+2/17/2018 9:55:35 PM: Validating Id Token..
+2/17/2018 9:55:35 PM: Calling UserInfo.
+2/17/2018 9:55:35 PM: Making Get User Info Call..
+2/17/2018 9:55:36 PM: Get User Info Call completed..
+2/17/2018 9:56:17 PM: Fetching Discovery Data..
+2/17/2018 9:56:19 PM: Discovery Data obtained..
+2/17/2018 9:56:19 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:56:19 PM: Setting up Authorize url.
+2/17/2018 9:56:19 PM: Calling AuthorizeUrl.
+2/17/2018 9:56:19 PM: Authorization code obtained..
+2/17/2018 9:56:19 PM: Exchanging code for tokens..
+2/17/2018 9:56:20 PM: Refresh token obtained..
+2/17/2018 9:56:20 PM: Access token obtained..
+2/17/2018 9:56:20 PM: Id token obtained..
+2/17/2018 9:56:20 PM: Making IsIdToken Valid Call..
+2/17/2018 9:56:20 PM: Validating Id Token..
+2/17/2018 9:56:20 PM: Calling UserInfo.
+2/17/2018 9:56:20 PM: Making Get User Info Call..
+2/17/2018 9:56:21 PM: Get User Info Call completed..
+2/17/2018 9:57:03 PM: Fetching Discovery Data..
+2/17/2018 9:57:05 PM: Discovery Data obtained..
+2/17/2018 9:57:05 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:57:05 PM: Setting up Authorize url.
+2/17/2018 9:57:05 PM: Calling AuthorizeUrl.
+2/17/2018 9:57:06 PM: Authorization code obtained..
+2/17/2018 9:57:06 PM: Exchanging code for tokens..
+2/17/2018 9:57:06 PM: Refresh token obtained..
+2/17/2018 9:57:06 PM: Access token obtained..
+2/17/2018 9:57:06 PM: Id token obtained..
+2/17/2018 9:57:06 PM: Making IsIdToken Valid Call..
+2/17/2018 9:57:06 PM: Validating Id Token..
+2/17/2018 9:57:06 PM: Calling UserInfo.
+2/17/2018 9:57:06 PM: Making Get User Info Call..
+2/17/2018 9:57:07 PM: Get User Info Call completed..
+2/17/2018 9:59:24 PM: Fetching Discovery Data..
+2/17/2018 9:59:26 PM: Discovery Data obtained..
+2/17/2018 9:59:26 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:59:26 PM: Setting up Authorize url.
+2/17/2018 9:59:26 PM: Calling AuthorizeUrl.
+2/17/2018 9:59:46 PM: Fetching Discovery Data..
+2/17/2018 9:59:51 PM: Discovery Data obtained..
+2/17/2018 9:59:51 PM: Intiating OAuth2 call to get code..
+2/17/2018 9:59:51 PM: Setting up Authorize url.
+2/17/2018 9:59:51 PM: Calling AuthorizeUrl.
+2/17/2018 9:59:52 PM: Invalid State.
+2/17/2018 10:02:15 PM: Fetching Discovery Data..
+2/17/2018 10:02:17 PM: Discovery Data obtained..
+2/17/2018 10:02:17 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:02:17 PM: Setting up Authorize url.
+2/17/2018 10:02:17 PM: Calling AuthorizeUrl.
+2/17/2018 10:02:53 PM: Fetching Discovery Data..
+2/17/2018 10:02:54 PM: Discovery Data obtained..
+2/17/2018 10:02:54 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:02:54 PM: Setting up Authorize url.
+2/17/2018 10:02:54 PM: Calling AuthorizeUrl.
+2/17/2018 10:02:59 PM: Invalid State.
+2/17/2018 10:05:29 PM: Fetching Discovery Data..
+2/17/2018 10:05:31 PM: Discovery Data obtained..
+2/17/2018 10:05:31 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:05:31 PM: Setting up Authorize url.
+2/17/2018 10:05:31 PM: Calling AuthorizeUrl.
+2/17/2018 10:19:39 PM: Fetching Discovery Data..
+2/17/2018 10:20:28 PM: Discovery Data obtained..
+2/17/2018 10:20:28 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:20:28 PM: Setting up Authorize url.
+2/17/2018 10:20:28 PM: Calling AuthorizeUrl.
+2/17/2018 10:21:37 PM: Fetching Discovery Data..
+2/17/2018 10:21:40 PM: Discovery Data obtained..
+2/17/2018 10:21:40 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:21:40 PM: Setting up Authorize url.
+2/17/2018 10:21:40 PM: Calling AuthorizeUrl.
+2/17/2018 10:24:31 PM: Fetching Discovery Data..
+2/17/2018 10:24:33 PM: Discovery Data obtained..
+2/17/2018 10:24:33 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:24:33 PM: Setting up Authorize url.
+2/17/2018 10:24:33 PM: Calling AuthorizeUrl.
+2/17/2018 10:24:39 PM: Authorization code obtained..
+2/17/2018 10:24:39 PM: Exchanging code for tokens..
+2/17/2018 10:24:39 PM: Refresh token obtained..
+2/17/2018 10:24:39 PM: Access token obtained..
+2/17/2018 10:24:39 PM: Id token obtained..
+2/17/2018 10:24:39 PM: Making IsIdToken Valid Call..
+2/17/2018 10:24:39 PM: Validating Id Token..
+2/17/2018 10:24:39 PM: Calling UserInfo.
+2/17/2018 10:24:39 PM: Making Get User Info Call..
+2/17/2018 10:24:40 PM: Get User Info Call completed..
+2/17/2018 10:25:44 PM: Fetching Discovery Data..
+2/17/2018 10:25:46 PM: Discovery Data obtained..
+2/17/2018 10:25:46 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:25:46 PM: Setting up Authorize url.
+2/17/2018 10:25:46 PM: Calling AuthorizeUrl.
+2/17/2018 10:25:51 PM: Authorization code obtained..
+2/17/2018 10:25:51 PM: Exchanging code for tokens..
+2/17/2018 10:25:51 PM: Refresh token obtained..
+2/17/2018 10:25:51 PM: Access token obtained..
+2/17/2018 10:25:51 PM: Id token obtained..
+2/17/2018 10:25:51 PM: Making IsIdToken Valid Call..
+2/17/2018 10:25:51 PM: Validating Id Token..
+2/17/2018 10:25:51 PM: Calling UserInfo.
+2/17/2018 10:25:51 PM: Making Get User Info Call..
+2/17/2018 10:25:52 PM: Get User Info Call completed..
+2/17/2018 10:31:02 PM: Fetching Discovery Data..
+2/17/2018 10:31:03 PM: Discovery Data obtained..
+2/17/2018 10:31:03 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:31:03 PM: Setting up Authorize url.
+2/17/2018 10:31:03 PM: Calling AuthorizeUrl.
+2/17/2018 10:31:33 PM: Authorization code obtained..
+2/17/2018 10:31:33 PM: Exchanging code for tokens..
+2/17/2018 10:31:33 PM: Refresh token obtained..
+2/17/2018 10:31:33 PM: Access token obtained..
+2/17/2018 10:31:34 PM: Id token obtained..
+2/17/2018 10:31:34 PM: Making IsIdToken Valid Call..
+2/17/2018 10:31:34 PM: Validating Id Token..
+2/17/2018 10:31:34 PM: Calling UserInfo.
+2/17/2018 10:31:34 PM: Making Get User Info Call..
+2/17/2018 10:31:34 PM: Get User Info Call completed..
+2/17/2018 10:33:25 PM: Fetching Discovery Data..
+2/17/2018 10:33:26 PM: Discovery Data obtained..
+2/17/2018 10:33:27 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:33:27 PM: Setting up Authorize url.
+2/17/2018 10:33:27 PM: Calling AuthorizeUrl.
+2/17/2018 10:33:39 PM: Authorization code obtained..
+2/17/2018 10:33:39 PM: Exchanging code for tokens..
+2/17/2018 10:33:39 PM: Refresh token obtained..
+2/17/2018 10:33:39 PM: Access token obtained..
+2/17/2018 10:33:39 PM: Id token obtained..
+2/17/2018 10:33:39 PM: Making IsIdToken Valid Call..
+2/17/2018 10:33:39 PM: Validating Id Token..
+2/17/2018 10:33:39 PM: Calling UserInfo.
+2/17/2018 10:33:39 PM: Making Get User Info Call..
+2/17/2018 10:33:40 PM: Get User Info Call completed..
+2/17/2018 10:36:56 PM: Fetching Discovery Data..
+2/17/2018 10:36:58 PM: Discovery Data obtained..
+2/17/2018 10:36:59 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:36:59 PM: Setting up Authorize url.
+2/17/2018 10:36:59 PM: Calling AuthorizeUrl.
+2/17/2018 10:37:03 PM: Authorization code obtained..
+2/17/2018 10:37:04 PM: Exchanging code for tokens..
+2/17/2018 10:37:04 PM: Refresh token obtained..
+2/17/2018 10:37:04 PM: Access token obtained..
+2/17/2018 10:37:04 PM: Id token obtained..
+2/17/2018 10:37:04 PM: Making IsIdToken Valid Call..
+2/17/2018 10:37:04 PM: Validating Id Token..
+2/17/2018 10:37:04 PM: Calling UserInfo.
+2/17/2018 10:37:04 PM: Making Get User Info Call..
+2/17/2018 10:37:05 PM: Get User Info Call completed..
+2/17/2018 10:43:12 PM: Fetching Discovery Data..
+2/17/2018 10:43:15 PM: Discovery Data obtained..
+2/17/2018 10:43:15 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:43:15 PM: Setting up Authorize url.
+2/17/2018 10:43:15 PM: Calling AuthorizeUrl.
+2/17/2018 10:43:19 PM: Authorization code obtained..
+2/17/2018 10:43:19 PM: Exchanging code for tokens..
+2/17/2018 10:43:20 PM: Refresh token obtained..
+2/17/2018 10:43:20 PM: Access token obtained..
+2/17/2018 10:43:20 PM: Id token obtained..
+2/17/2018 10:43:20 PM: Making IsIdToken Valid Call..
+2/17/2018 10:43:20 PM: Validating Id Token..
+2/17/2018 10:43:20 PM: Calling UserInfo.
+2/17/2018 10:43:20 PM: Making Get User Info Call..
+2/17/2018 10:43:21 PM: Get User Info Call completed..
+2/17/2018 10:48:30 PM: Fetching Discovery Data..
+2/17/2018 10:48:32 PM: Discovery Data obtained..
+2/17/2018 10:48:32 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:48:32 PM: Setting up Authorize url.
+2/17/2018 10:48:32 PM: Calling AuthorizeUrl.
+2/17/2018 10:48:42 PM: Authorization code obtained..
+2/17/2018 10:48:42 PM: Exchanging code for tokens..
+2/17/2018 10:48:43 PM: Refresh token obtained..
+2/17/2018 10:48:43 PM: Access token obtained..
+2/17/2018 10:48:43 PM: Id token obtained..
+2/17/2018 10:48:43 PM: Making IsIdToken Valid Call..
+2/17/2018 10:48:43 PM: Validating Id Token..
+2/17/2018 10:48:43 PM: Calling UserInfo.
+2/17/2018 10:48:43 PM: Making Get User Info Call..
+2/17/2018 10:48:43 PM: Get User Info Call completed..
+2/17/2018 10:58:05 PM: Fetching Discovery Data..
+2/17/2018 10:58:07 PM: Discovery Data obtained..
+2/17/2018 10:58:07 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:58:07 PM: Setting up Authorize url.
+2/17/2018 10:58:07 PM: Calling AuthorizeUrl.
+2/17/2018 10:58:12 PM: Authorization code obtained..
+2/17/2018 10:58:12 PM: Exchanging code for tokens..
+2/17/2018 10:58:12 PM: Refresh token obtained..
+2/17/2018 10:58:12 PM: Access token obtained..
+2/17/2018 10:58:12 PM: Id token obtained..
+2/17/2018 10:58:12 PM: Making IsIdToken Valid Call..
+2/17/2018 10:58:12 PM: Validating Id Token..
+2/17/2018 10:58:12 PM: Calling UserInfo.
+2/17/2018 10:58:12 PM: Making Get User Info Call..
+2/17/2018 10:58:13 PM: Get User Info Call completed..
+2/17/2018 10:59:21 PM: Fetching Discovery Data..
+2/17/2018 10:59:23 PM: Discovery Data obtained..
+2/17/2018 10:59:23 PM: Intiating OAuth2 call to get code..
+2/17/2018 10:59:23 PM: Setting up Authorize url.
+2/17/2018 10:59:23 PM: Calling AuthorizeUrl.
+2/17/2018 10:59:29 PM: Authorization code obtained..
+2/17/2018 10:59:29 PM: Exchanging code for tokens..
+2/17/2018 10:59:29 PM: Refresh token obtained..
+2/17/2018 10:59:29 PM: Access token obtained..
+2/17/2018 10:59:29 PM: Id token obtained..
+2/17/2018 10:59:29 PM: Making IsIdToken Valid Call..
+2/17/2018 10:59:29 PM: Validating Id Token..
+2/17/2018 10:59:29 PM: Calling UserInfo.
+2/17/2018 10:59:29 PM: Making Get User Info Call..
+2/17/2018 10:59:30 PM: Get User Info Call completed..
+2/17/2018 11:01:31 PM: Fetching Discovery Data..
+2/17/2018 11:01:33 PM: Discovery Data obtained..
+2/17/2018 11:01:33 PM: Intiating OAuth2 call to get code..
+2/17/2018 11:01:33 PM: Setting up Authorize url.
+2/17/2018 11:01:33 PM: Calling AuthorizeUrl.
+2/17/2018 11:01:38 PM: Authorization code obtained..
+2/17/2018 11:01:38 PM: Exchanging code for tokens..
+2/17/2018 11:01:38 PM: Refresh token obtained..
+2/17/2018 11:01:38 PM: Access token obtained..
+2/17/2018 11:01:39 PM: Id token obtained..
+2/17/2018 11:01:39 PM: Making IsIdToken Valid Call..
+2/17/2018 11:01:39 PM: Validating Id Token..
+2/17/2018 11:01:39 PM: Calling UserInfo.
+2/17/2018 11:01:39 PM: Making Get User Info Call..
+2/17/2018 11:01:39 PM: Get User Info Call completed..
+2/17/2018 11:03:46 PM: Fetching Discovery Data..
+2/17/2018 11:03:48 PM: Discovery Data obtained..
+2/17/2018 11:03:48 PM: Intiating OAuth2 call to get code..
+2/17/2018 11:03:48 PM: Setting up Authorize url.
+2/17/2018 11:03:48 PM: Calling AuthorizeUrl.
+2/17/2018 11:03:53 PM: Authorization code obtained..
+2/17/2018 11:03:53 PM: Exchanging code for tokens..
+2/17/2018 11:03:53 PM: Refresh token obtained..
+2/17/2018 11:03:53 PM: Access token obtained..
+2/17/2018 11:03:53 PM: Id token obtained..
+2/17/2018 11:03:53 PM: Making IsIdToken Valid Call..
+2/17/2018 11:03:53 PM: Validating Id Token..
+2/17/2018 11:03:53 PM: Calling UserInfo.
+2/17/2018 11:03:53 PM: Making Get User Info Call..
+2/17/2018 11:03:54 PM: Get User Info Call completed..
+2/22/2018 1:21:29 AM: Fetching Discovery Data..
+2/22/2018 1:21:31 AM: Discovery Data obtained..
+2/22/2018 1:21:31 AM: Intiating OAuth2 call to get code..
+2/22/2018 1:21:31 AM: Setting up Authorize url.
+2/22/2018 1:21:31 AM: Calling AuthorizeUrl.
+2/22/2018 1:21:33 AM: Authorization code obtained..
+2/22/2018 1:21:33 AM: Exchanging code for tokens..
+2/22/2018 1:21:33 AM: Refresh token obtained..
+2/22/2018 1:21:33 AM: Access token obtained..
+2/22/2018 1:21:33 AM: Id token obtained..
+2/22/2018 1:21:33 AM: Making IsIdToken Valid Call..
+2/22/2018 1:21:33 AM: Validating Id Token..
+2/22/2018 1:21:33 AM: Calling UserInfo.
+2/22/2018 1:21:33 AM: Making Get User Info Call..
+2/22/2018 1:21:34 AM: Get User Info Call completed..
+2/22/2018 1:43:20 AM: Fetching Discovery Data..
+2/22/2018 1:43:22 AM: Discovery Data obtained..
+2/22/2018 1:43:22 AM: Intiating OAuth2 call to get code..
+2/22/2018 1:43:22 AM: Setting up Authorize url.
+2/22/2018 1:43:22 AM: Calling AuthorizeUrl.
+2/22/2018 1:43:30 AM: Authorization code obtained..
+2/22/2018 1:43:30 AM: Exchanging code for tokens..
+2/22/2018 1:43:31 AM: Refresh token obtained..
+2/22/2018 1:43:31 AM: Access token obtained..
+2/22/2018 1:43:31 AM: Id token obtained..
+2/22/2018 1:43:31 AM: Making IsIdToken Valid Call..
+2/22/2018 1:43:31 AM: Validating Id Token..
+2/22/2018 1:43:31 AM: Calling UserInfo.
+2/22/2018 1:43:31 AM: Making Get User Info Call..
+2/22/2018 1:43:32 AM: Get User Info Call completed..
+2/22/2018 1:47:36 AM: Fetching Discovery Data..
+2/22/2018 1:47:38 AM: Discovery Data obtained..
+2/22/2018 1:47:38 AM: Intiating OAuth2 call to get code..
+2/22/2018 1:47:38 AM: Setting up Authorize url.
+2/22/2018 1:47:38 AM: Calling AuthorizeUrl.
+2/22/2018 1:47:42 AM: Authorization code obtained..
+2/22/2018 1:47:42 AM: Exchanging code for tokens..
+2/22/2018 1:47:42 AM: Refresh token obtained..
+2/22/2018 1:47:42 AM: Access token obtained..
+2/22/2018 1:47:42 AM: Id token obtained..
+2/22/2018 1:47:42 AM: Making IsIdToken Valid Call..
+2/22/2018 1:47:42 AM: Validating Id Token..
+2/22/2018 1:47:42 AM: Calling UserInfo.
+2/22/2018 1:47:42 AM: Making Get User Info Call..
+2/22/2018 1:47:43 AM: Get User Info Call completed..
+2/22/2018 1:50:31 AM: Fetching Discovery Data..
+2/22/2018 1:50:32 AM: Discovery Data obtained..
+2/22/2018 1:50:32 AM: Intiating OAuth2 call to get code..
+2/22/2018 1:50:32 AM: Setting up Authorize url.
+2/22/2018 1:50:32 AM: Calling AuthorizeUrl.
+2/22/2018 1:50:36 AM: Authorization code obtained..
+2/22/2018 1:50:36 AM: Exchanging code for tokens..
+2/22/2018 1:50:37 AM: Refresh token obtained..
+2/22/2018 1:50:37 AM: Access token obtained..
+2/22/2018 1:50:37 AM: Id token obtained..
+2/22/2018 1:50:37 AM: Making IsIdToken Valid Call..
+2/22/2018 1:50:37 AM: Validating Id Token..
+2/22/2018 1:50:37 AM: Calling UserInfo.
+2/22/2018 1:50:37 AM: Making Get User Info Call..
+2/22/2018 1:50:38 AM: Get User Info Call completed..
+2/22/2018 1:52:38 AM: Fetching Discovery Data..
+2/22/2018 1:52:40 AM: Discovery Data obtained..
+2/22/2018 1:52:40 AM: Intiating OAuth2 call to get code..
+2/22/2018 1:52:40 AM: Setting up Authorize url.
+2/22/2018 1:52:40 AM: Calling AuthorizeUrl.
+2/22/2018 1:52:44 AM: Authorization code obtained..
+2/22/2018 1:52:44 AM: Exchanging code for tokens..
+2/22/2018 1:52:44 AM: Refresh token obtained..
+2/22/2018 1:52:44 AM: Access token obtained..
+2/22/2018 1:52:44 AM: Id token obtained..
+2/22/2018 1:52:44 AM: Making IsIdToken Valid Call..
+2/22/2018 1:52:44 AM: Validating Id Token..
+2/22/2018 1:52:44 AM: Calling UserInfo.
+2/22/2018 1:52:44 AM: Making Get User Info Call..
+2/22/2018 1:52:45 AM: Get User Info Call completed..
+2/22/2018 1:55:58 AM: Fetching Discovery Data..
+2/22/2018 1:55:59 AM: Discovery Data obtained..
+2/22/2018 1:55:59 AM: Intiating OAuth2 call to get code..
+2/22/2018 1:55:59 AM: Setting up Authorize url.
+2/22/2018 1:55:59 AM: Calling AuthorizeUrl.
+2/22/2018 1:56:08 AM: Authorization code obtained..
+2/22/2018 1:56:08 AM: Exchanging code for tokens..
+2/22/2018 1:56:08 AM: Refresh token obtained..
+2/22/2018 1:56:08 AM: Access token obtained..
+2/22/2018 1:56:08 AM: Id token obtained..
+2/22/2018 1:56:08 AM: Making IsIdToken Valid Call..
+2/22/2018 1:56:08 AM: Validating Id Token..
+2/22/2018 1:56:08 AM: Calling UserInfo.
+2/22/2018 1:56:08 AM: Making Get User Info Call..
+2/22/2018 1:56:09 AM: Get User Info Call completed..
+2/22/2018 2:00:54 AM: Fetching Discovery Data..
+2/22/2018 2:00:56 AM: Discovery Data obtained..
+2/22/2018 2:00:56 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:00:56 AM: Setting up Authorize url.
+2/22/2018 2:00:56 AM: Calling AuthorizeUrl.
+2/22/2018 2:01:03 AM: Authorization code obtained..
+2/22/2018 2:01:03 AM: Exchanging code for tokens..
+2/22/2018 2:01:03 AM: Refresh token obtained..
+2/22/2018 2:01:03 AM: Access token obtained..
+2/22/2018 2:01:03 AM: Id token obtained..
+2/22/2018 2:01:03 AM: Making IsIdToken Valid Call..
+2/22/2018 2:01:03 AM: Validating Id Token..
+2/22/2018 2:01:03 AM: Calling UserInfo.
+2/22/2018 2:01:03 AM: Making Get User Info Call..
+2/22/2018 2:01:06 AM: Get User Info Call completed..
+2/22/2018 2:02:56 AM: Fetching Discovery Data..
+2/22/2018 2:02:58 AM: Discovery Data obtained..
+2/22/2018 2:02:58 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:02:58 AM: Setting up Authorize url.
+2/22/2018 2:02:58 AM: Calling AuthorizeUrl.
+2/22/2018 2:02:59 AM: Authorization code obtained..
+2/22/2018 2:02:59 AM: Exchanging code for tokens..
+2/22/2018 2:02:59 AM: Refresh token obtained..
+2/22/2018 2:02:59 AM: Access token obtained..
+2/22/2018 2:02:59 AM: Id token obtained..
+2/22/2018 2:02:59 AM: Making IsIdToken Valid Call..
+2/22/2018 2:02:59 AM: Validating Id Token..
+2/22/2018 2:02:59 AM: Calling UserInfo.
+2/22/2018 2:02:59 AM: Making Get User Info Call..
+2/22/2018 2:03:00 AM: Get User Info Call completed..
+2/22/2018 2:06:15 AM: Fetching Discovery Data..
+2/22/2018 2:06:17 AM: Discovery Data obtained..
+2/22/2018 2:06:17 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:06:17 AM: Setting up Authorize url.
+2/22/2018 2:06:17 AM: Calling AuthorizeUrl.
+2/22/2018 2:06:21 AM: Authorization code obtained..
+2/22/2018 2:06:21 AM: Exchanging code for tokens..
+2/22/2018 2:06:22 AM: Refresh token obtained..
+2/22/2018 2:06:22 AM: Access token obtained..
+2/22/2018 2:06:22 AM: Id token obtained..
+2/22/2018 2:06:22 AM: Making IsIdToken Valid Call..
+2/22/2018 2:06:22 AM: Validating Id Token..
+2/22/2018 2:06:22 AM: Calling UserInfo.
+2/22/2018 2:06:22 AM: Making Get User Info Call..
+2/22/2018 2:06:23 AM: Get User Info Call completed..
+2/22/2018 2:15:43 AM: Fetching Discovery Data..
+2/22/2018 2:15:45 AM: Discovery Data obtained..
+2/22/2018 2:15:45 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:15:45 AM: Setting up Authorize url.
+2/22/2018 2:15:45 AM: Calling AuthorizeUrl.
+2/22/2018 2:15:49 AM: Authorization code obtained..
+2/22/2018 2:15:49 AM: Exchanging code for tokens..
+2/22/2018 2:15:49 AM: Refresh token obtained..
+2/22/2018 2:15:49 AM: Access token obtained..
+2/22/2018 2:15:49 AM: Id token obtained..
+2/22/2018 2:15:49 AM: Making IsIdToken Valid Call..
+2/22/2018 2:15:49 AM: Validating Id Token..
+2/22/2018 2:15:49 AM: Calling UserInfo.
+2/22/2018 2:15:49 AM: Making Get User Info Call..
+2/22/2018 2:15:50 AM: Get User Info Call completed..
+2/22/2018 2:29:05 AM: Fetching Discovery Data..
+2/22/2018 2:29:07 AM: Discovery Data obtained..
+2/22/2018 2:29:07 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:29:07 AM: Setting up Authorize url.
+2/22/2018 2:29:07 AM: Calling AuthorizeUrl.
+2/22/2018 2:29:12 AM: Authorization code obtained..
+2/22/2018 2:29:12 AM: Exchanging code for tokens..
+2/22/2018 2:29:12 AM: Refresh token obtained..
+2/22/2018 2:29:12 AM: Access token obtained..
+2/22/2018 2:29:12 AM: Id token obtained..
+2/22/2018 2:29:12 AM: Making IsIdToken Valid Call..
+2/22/2018 2:29:12 AM: Validating Id Token..
+2/22/2018 2:29:12 AM: Calling UserInfo.
+2/22/2018 2:29:12 AM: Making Get User Info Call..
+2/22/2018 2:29:13 AM: Get User Info Call completed..
+2/22/2018 2:33:45 AM: Fetching Discovery Data..
+2/22/2018 2:33:47 AM: Discovery Data obtained..
+2/22/2018 2:33:47 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:33:47 AM: Setting up Authorize url.
+2/22/2018 2:33:47 AM: Calling AuthorizeUrl.
+2/22/2018 2:33:51 AM: Authorization code obtained..
+2/22/2018 2:33:51 AM: Exchanging code for tokens..
+2/22/2018 2:33:51 AM: Refresh token obtained..
+2/22/2018 2:33:51 AM: Access token obtained..
+2/22/2018 2:33:51 AM: Id token obtained..
+2/22/2018 2:33:51 AM: Making IsIdToken Valid Call..
+2/22/2018 2:33:51 AM: Validating Id Token..
+2/22/2018 2:33:51 AM: Calling UserInfo.
+2/22/2018 2:33:51 AM: Making Get User Info Call..
+2/22/2018 2:33:52 AM: Get User Info Call completed..
+2/22/2018 2:35:51 AM: Fetching Discovery Data..
+2/22/2018 2:35:53 AM: Discovery Data obtained..
+2/22/2018 2:35:53 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:35:53 AM: Setting up Authorize url.
+2/22/2018 2:35:53 AM: Calling AuthorizeUrl.
+2/22/2018 2:35:57 AM: Authorization code obtained..
+2/22/2018 2:35:57 AM: Exchanging code for tokens..
+2/22/2018 2:35:57 AM: Refresh token obtained..
+2/22/2018 2:35:57 AM: Access token obtained..
+2/22/2018 2:35:58 AM: Id token obtained..
+2/22/2018 2:35:58 AM: Making IsIdToken Valid Call..
+2/22/2018 2:35:58 AM: Validating Id Token..
+2/22/2018 2:35:58 AM: Calling UserInfo.
+2/22/2018 2:35:58 AM: Making Get User Info Call..
+2/22/2018 2:35:59 AM: Get User Info Call completed..
+2/22/2018 2:37:52 AM: Fetching Discovery Data..
+2/22/2018 2:37:54 AM: Discovery Data obtained..
+2/22/2018 2:37:54 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:37:54 AM: Setting up Authorize url.
+2/22/2018 2:37:54 AM: Calling AuthorizeUrl.
+2/22/2018 2:37:57 AM: Authorization code obtained..
+2/22/2018 2:37:57 AM: Exchanging code for tokens..
+2/22/2018 2:37:58 AM: Refresh token obtained..
+2/22/2018 2:37:58 AM: Access token obtained..
+2/22/2018 2:37:58 AM: Id token obtained..
+2/22/2018 2:37:58 AM: Making IsIdToken Valid Call..
+2/22/2018 2:37:58 AM: Validating Id Token..
+2/22/2018 2:37:58 AM: Calling UserInfo.
+2/22/2018 2:37:58 AM: Making Get User Info Call..
+2/22/2018 2:37:59 AM: Get User Info Call completed..
+2/22/2018 2:40:18 AM: Fetching Discovery Data..
+2/22/2018 2:40:20 AM: Discovery Data obtained..
+2/22/2018 2:40:20 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:40:20 AM: Setting up Authorize url.
+2/22/2018 2:40:20 AM: Calling AuthorizeUrl.
+2/22/2018 2:40:24 AM: Authorization code obtained..
+2/22/2018 2:40:24 AM: Exchanging code for tokens..
+2/22/2018 2:40:24 AM: Refresh token obtained..
+2/22/2018 2:40:24 AM: Access token obtained..
+2/22/2018 2:40:24 AM: Id token obtained..
+2/22/2018 2:40:24 AM: Making IsIdToken Valid Call..
+2/22/2018 2:40:24 AM: Validating Id Token..
+2/22/2018 2:40:24 AM: Calling UserInfo.
+2/22/2018 2:40:24 AM: Making Get User Info Call..
+2/22/2018 2:40:25 AM: Get User Info Call completed..
+2/22/2018 2:41:37 AM: Fetching Discovery Data..
+2/22/2018 2:41:39 AM: Discovery Data obtained..
+2/22/2018 2:41:39 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:41:39 AM: Setting up Authorize url.
+2/22/2018 2:41:39 AM: Calling AuthorizeUrl.
+2/22/2018 2:41:43 AM: Authorization code obtained..
+2/22/2018 2:41:43 AM: Exchanging code for tokens..
+2/22/2018 2:41:43 AM: Refresh token obtained..
+2/22/2018 2:41:43 AM: Access token obtained..
+2/22/2018 2:41:43 AM: Id token obtained..
+2/22/2018 2:41:43 AM: Making IsIdToken Valid Call..
+2/22/2018 2:41:43 AM: Validating Id Token..
+2/22/2018 2:41:43 AM: Calling UserInfo.
+2/22/2018 2:41:43 AM: Making Get User Info Call..
+2/22/2018 2:41:45 AM: Get User Info Call completed..
+2/22/2018 2:41:58 AM: Making QBO API Call..
+2/22/2018 2:42:01 AM: QBO call successful..
+2/22/2018 2:43:24 AM: Fetching Discovery Data..
+2/22/2018 2:43:24 AM: Fetching Discovery Data..
+2/22/2018 2:43:26 AM: Discovery Data obtained..
+2/22/2018 2:43:26 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:43:26 AM: Setting up Authorize url.
+2/22/2018 2:43:26 AM: Calling AuthorizeUrl.
+2/22/2018 2:43:27 AM: The process cannot access the file 'C:\Users\Owner\Downloads\OAuth2-Dotnet_UsingSDK-master\OAuth2-Dotnet_UsingSDK-master\OAuth2-Dotnet_UsingSDK\OAuth2-Dotnet_UsingSDK\Logs\OAuth2SampleAppLogs.txt' because it is being used by another process..
+2/22/2018 2:43:27 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:43:27 AM: Setting up Authorize url.
+2/22/2018 2:43:27 AM: Calling AuthorizeUrl.
+2/22/2018 2:43:30 AM: Authorization code obtained..
+2/22/2018 2:43:30 AM: Exchanging code for tokens..
+2/22/2018 2:43:30 AM: Refresh token obtained..
+2/22/2018 2:43:30 AM: Access token obtained..
+2/22/2018 2:43:30 AM: Id token obtained..
+2/22/2018 2:43:30 AM: Making IsIdToken Valid Call..
+2/22/2018 2:43:30 AM: Validating Id Token..
+2/22/2018 2:43:30 AM: Calling UserInfo.
+2/22/2018 2:43:30 AM: Making Get User Info Call..
+2/22/2018 2:43:31 AM: Get User Info Call completed..
+2/22/2018 2:43:43 AM: Making QBO API Call..
+2/22/2018 2:43:45 AM: QBO call successful..
+2/22/2018 2:52:04 AM: Fetching Discovery Data..
+2/22/2018 2:52:06 AM: Discovery Data obtained..
+2/22/2018 2:52:06 AM: Intiating OAuth2 call to get code..
+2/22/2018 2:52:06 AM: Setting up Authorize url.
+2/22/2018 2:52:06 AM: Calling AuthorizeUrl.
+2/22/2018 2:52:26 AM: Authorization code obtained..
+2/22/2018 2:52:26 AM: Exchanging code for tokens..
+2/22/2018 2:52:27 AM: Refresh token obtained..
+2/22/2018 2:52:27 AM: Access token obtained..
+2/22/2018 2:52:27 AM: Id token obtained..
+2/22/2018 2:52:27 AM: Making IsIdToken Valid Call..
+2/22/2018 2:52:27 AM: Validating Id Token..
+2/22/2018 2:52:27 AM: Calling UserInfo.
+2/22/2018 2:52:27 AM: Making Get User Info Call..
+2/22/2018 2:52:28 AM: Get User Info Call completed..
+2/22/2018 3:00:37 AM: Fetching Discovery Data..
+2/22/2018 3:00:39 AM: Discovery Data obtained..
+2/22/2018 3:00:39 AM: Intiating OAuth2 call to get code..
+2/22/2018 3:00:39 AM: Setting up Authorize url.
+2/22/2018 3:00:39 AM: Calling AuthorizeUrl.
+2/22/2018 3:00:43 AM: Authorization code obtained..
+2/22/2018 3:00:43 AM: Exchanging code for tokens..
+2/22/2018 3:00:43 AM: Refresh token obtained..
+2/22/2018 3:00:43 AM: Access token obtained..
+2/22/2018 3:00:43 AM: Id token obtained..
+2/22/2018 3:00:43 AM: Making IsIdToken Valid Call..
+2/22/2018 3:00:43 AM: Validating Id Token..
+2/22/2018 3:00:43 AM: Calling UserInfo.
+2/22/2018 3:00:43 AM: Making Get User Info Call..
+2/22/2018 3:00:44 AM: Get User Info Call completed..
+2/22/2018 3:02:04 AM: Fetching Discovery Data..
+2/22/2018 3:02:06 AM: Discovery Data obtained..
+2/22/2018 3:02:06 AM: Intiating OAuth2 call to get code..
+2/22/2018 3:02:06 AM: Setting up Authorize url.
+2/22/2018 3:02:06 AM: Calling AuthorizeUrl.
+2/22/2018 3:02:09 AM: Authorization code obtained..
+2/22/2018 3:02:09 AM: Exchanging code for tokens..
+2/22/2018 3:02:09 AM: Refresh token obtained..
+2/22/2018 3:02:09 AM: Access token obtained..
+2/22/2018 3:02:09 AM: Id token obtained..
+2/22/2018 3:02:09 AM: Making IsIdToken Valid Call..
+2/22/2018 3:02:09 AM: Validating Id Token..
+2/22/2018 3:02:09 AM: Calling UserInfo.
+2/22/2018 3:02:09 AM: Making Get User Info Call..
+2/22/2018 3:02:10 AM: Get User Info Call completed..
+2/22/2018 3:23:14 AM: Fetching Discovery Data..
+2/22/2018 3:23:16 AM: Discovery Data obtained..
+2/22/2018 3:23:16 AM: Intiating OAuth2 call to get code..
+2/22/2018 3:23:16 AM: Setting up Authorize url.
+2/22/2018 3:23:16 AM: Calling AuthorizeUrl.
+2/22/2018 3:23:20 AM: Authorization code obtained..
+2/22/2018 3:23:20 AM: Exchanging code for tokens..
+2/22/2018 3:23:20 AM: Refresh token obtained..
+2/22/2018 3:23:20 AM: Access token obtained..
+2/22/2018 3:23:20 AM: Id token obtained..
+2/22/2018 3:23:20 AM: Making IsIdToken Valid Call..
+2/22/2018 3:23:20 AM: Validating Id Token..
+2/22/2018 3:23:20 AM: Calling UserInfo.
+2/22/2018 3:23:20 AM: Making Get User Info Call..
+2/22/2018 3:23:21 AM: Get User Info Call completed..
+2/22/2018 1:42:34 PM: Fetching Discovery Data..
+2/22/2018 1:42:36 PM: Discovery Data obtained..
+2/22/2018 1:42:36 PM: Intiating OAuth2 call to get code..
+2/22/2018 1:42:36 PM: Setting up Authorize url.
+2/22/2018 1:42:36 PM: Calling AuthorizeUrl.
+2/22/2018 1:42:41 PM: Authorization code obtained..
+2/22/2018 1:42:41 PM: Exchanging code for tokens..
+2/22/2018 1:42:41 PM: Refresh token obtained..
+2/22/2018 1:42:41 PM: Access token obtained..
+2/22/2018 1:42:41 PM: Id token obtained..
+2/22/2018 1:42:41 PM: Making IsIdToken Valid Call..
+2/22/2018 1:42:41 PM: Validating Id Token..
+2/22/2018 1:42:41 PM: Calling UserInfo.
+2/22/2018 1:42:41 PM: Making Get User Info Call..
+2/22/2018 1:42:42 PM: Get User Info Call completed..
+2/22/2018 1:52:36 PM: Fetching Discovery Data..
+2/22/2018 1:52:38 PM: Discovery Data obtained..
+2/22/2018 1:52:38 PM: Intiating OAuth2 call to get code..
+2/22/2018 1:52:38 PM: Setting up Authorize url.
+2/22/2018 1:52:38 PM: Calling AuthorizeUrl.
+2/22/2018 1:52:43 PM: Authorization code obtained..
+2/22/2018 1:52:43 PM: Exchanging code for tokens..
+2/22/2018 1:52:43 PM: Refresh token obtained..
+2/22/2018 1:52:43 PM: Access token obtained..
+2/22/2018 1:52:43 PM: Id token obtained..
+2/22/2018 1:52:43 PM: Making IsIdToken Valid Call..
+2/22/2018 1:52:44 PM: Validating Id Token..
+2/22/2018 1:52:44 PM: Calling UserInfo.
+2/22/2018 1:52:44 PM: Making Get User Info Call..
+2/22/2018 1:52:44 PM: Get User Info Call completed..
+2/22/2018 2:02:58 PM: Fetching Discovery Data..
+2/22/2018 2:03:01 PM: Discovery Data obtained..
+2/22/2018 2:03:01 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:03:01 PM: Setting up Authorize url.
+2/22/2018 2:03:01 PM: Calling AuthorizeUrl.
+2/22/2018 2:03:06 PM: Authorization code obtained..
+2/22/2018 2:03:06 PM: Exchanging code for tokens..
+2/22/2018 2:03:07 PM: Refresh token obtained..
+2/22/2018 2:03:07 PM: Access token obtained..
+2/22/2018 2:03:07 PM: Id token obtained..
+2/22/2018 2:03:07 PM: Making IsIdToken Valid Call..
+2/22/2018 2:03:07 PM: Validating Id Token..
+2/22/2018 2:03:07 PM: Calling UserInfo.
+2/22/2018 2:03:07 PM: Making Get User Info Call..
+2/22/2018 2:03:08 PM: Get User Info Call completed..
+2/22/2018 2:06:54 PM: Fetching Discovery Data..
+2/22/2018 2:07:15 PM: Fetching Discovery Data..
+2/22/2018 2:07:16 PM: Fetching Discovery Data..
+2/22/2018 2:07:16 PM: Discovery error.
+2/22/2018 2:07:16 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:07:16 PM: Setting up Authorize url.
+2/22/2018 2:07:16 PM: Missing authorizationEndpoint url!.
+2/22/2018 2:07:27 PM: Discovery Data obtained..
+2/22/2018 2:07:27 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:07:27 PM: Setting up Authorize url.
+2/22/2018 2:07:27 PM: Calling AuthorizeUrl.
+2/22/2018 2:07:29 PM: Discovery Data obtained..
+2/22/2018 2:07:29 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:07:29 PM: Setting up Authorize url.
+2/22/2018 2:07:29 PM: Calling AuthorizeUrl.
+2/22/2018 2:07:36 PM: Invalid State.
+2/22/2018 2:07:48 PM: Fetching Discovery Data..
+2/22/2018 2:07:49 PM: Fetching Discovery Data..
+2/22/2018 2:07:49 PM: Discovery Data obtained..
+2/22/2018 2:07:49 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:07:49 PM: Setting up Authorize url.
+2/22/2018 2:07:49 PM: Calling AuthorizeUrl.
+2/22/2018 2:07:49 PM: Discovery Data obtained..
+2/22/2018 2:07:49 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:07:50 PM: Setting up Authorize url.
+2/22/2018 2:07:50 PM: Calling AuthorizeUrl.
+2/22/2018 2:07:53 PM: Invalid State.
+2/22/2018 2:09:49 PM: Fetching Discovery Data..
+2/22/2018 2:09:51 PM: Discovery Data obtained..
+2/22/2018 2:09:51 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:09:51 PM: Setting up Authorize url.
+2/22/2018 2:09:51 PM: Calling AuthorizeUrl.
+2/22/2018 2:09:54 PM: Authorization code obtained..
+2/22/2018 2:09:54 PM: Exchanging code for tokens..
+2/22/2018 2:09:55 PM: Refresh token obtained..
+2/22/2018 2:09:55 PM: Access token obtained..
+2/22/2018 2:09:55 PM: Id token obtained..
+2/22/2018 2:09:55 PM: Making IsIdToken Valid Call..
+2/22/2018 2:09:55 PM: Validating Id Token..
+2/22/2018 2:09:55 PM: Calling UserInfo.
+2/22/2018 2:09:55 PM: Making Get User Info Call..
+2/22/2018 2:09:56 PM: Get User Info Call completed..
+2/22/2018 2:12:35 PM: Fetching Discovery Data..
+2/22/2018 2:12:37 PM: Discovery Data obtained..
+2/22/2018 2:12:37 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:12:37 PM: Setting up Authorize url.
+2/22/2018 2:12:37 PM: Calling AuthorizeUrl.
+2/22/2018 2:12:41 PM: Authorization code obtained..
+2/22/2018 2:12:41 PM: Exchanging code for tokens..
+2/22/2018 2:12:41 PM: Refresh token obtained..
+2/22/2018 2:12:41 PM: Access token obtained..
+2/22/2018 2:12:41 PM: Id token obtained..
+2/22/2018 2:12:41 PM: Making IsIdToken Valid Call..
+2/22/2018 2:12:41 PM: Validating Id Token..
+2/22/2018 2:12:41 PM: Calling UserInfo.
+2/22/2018 2:12:41 PM: Making Get User Info Call..
+2/22/2018 2:12:42 PM: Get User Info Call completed..
+2/22/2018 2:14:43 PM: Fetching Discovery Data..
+2/22/2018 2:14:45 PM: Discovery Data obtained..
+2/22/2018 2:14:45 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:14:45 PM: Setting up Authorize url.
+2/22/2018 2:14:45 PM: Calling AuthorizeUrl.
+2/22/2018 2:14:53 PM: Authorization code obtained..
+2/22/2018 2:14:53 PM: Exchanging code for tokens..
+2/22/2018 2:14:53 PM: Refresh token obtained..
+2/22/2018 2:14:53 PM: Access token obtained..
+2/22/2018 2:14:53 PM: Id token obtained..
+2/22/2018 2:14:53 PM: Making IsIdToken Valid Call..
+2/22/2018 2:14:53 PM: Validating Id Token..
+2/22/2018 2:14:53 PM: Calling UserInfo.
+2/22/2018 2:14:53 PM: Making Get User Info Call..
+2/22/2018 2:14:54 PM: Get User Info Call completed..
+2/22/2018 2:18:44 PM: Fetching Discovery Data..
+2/22/2018 2:18:46 PM: Discovery Data obtained..
+2/22/2018 2:18:46 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:18:46 PM: Setting up Authorize url.
+2/22/2018 2:18:46 PM: Calling AuthorizeUrl.
+2/22/2018 2:18:50 PM: Authorization code obtained..
+2/22/2018 2:18:50 PM: Exchanging code for tokens..
+2/22/2018 2:18:50 PM: Refresh token obtained..
+2/22/2018 2:18:50 PM: Access token obtained..
+2/22/2018 2:18:50 PM: Id token obtained..
+2/22/2018 2:18:50 PM: Making IsIdToken Valid Call..
+2/22/2018 2:18:50 PM: Validating Id Token..
+2/22/2018 2:18:50 PM: Calling UserInfo.
+2/22/2018 2:18:50 PM: Making Get User Info Call..
+2/22/2018 2:18:51 PM: Get User Info Call completed..
+2/22/2018 2:26:05 PM: Fetching Discovery Data..
+2/22/2018 2:26:07 PM: Discovery Data obtained..
+2/22/2018 2:26:07 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:26:07 PM: Setting up Authorize url.
+2/22/2018 2:26:07 PM: Calling AuthorizeUrl.
+2/22/2018 2:26:13 PM: Authorization code obtained..
+2/22/2018 2:26:13 PM: Exchanging code for tokens..
+2/22/2018 2:26:13 PM: Refresh token obtained..
+2/22/2018 2:26:13 PM: Access token obtained..
+2/22/2018 2:26:13 PM: Id token obtained..
+2/22/2018 2:26:13 PM: Making IsIdToken Valid Call..
+2/22/2018 2:26:13 PM: Validating Id Token..
+2/22/2018 2:26:13 PM: Calling UserInfo.
+2/22/2018 2:26:13 PM: Making Get User Info Call..
+2/22/2018 2:26:15 PM: Get User Info Call completed..
+2/22/2018 2:30:50 PM: Fetching Discovery Data..
+2/22/2018 2:30:51 PM: Discovery Data obtained..
+2/22/2018 2:30:51 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:30:51 PM: Setting up Authorize url.
+2/22/2018 2:30:51 PM: Calling AuthorizeUrl.
+2/22/2018 2:30:56 PM: Authorization code obtained..
+2/22/2018 2:30:56 PM: Exchanging code for tokens..
+2/22/2018 2:30:57 PM: Refresh token obtained..
+2/22/2018 2:30:57 PM: Access token obtained..
+2/22/2018 2:30:57 PM: Id token obtained..
+2/22/2018 2:30:57 PM: Making IsIdToken Valid Call..
+2/22/2018 2:30:57 PM: Validating Id Token..
+2/22/2018 2:30:57 PM: Calling UserInfo.
+2/22/2018 2:30:57 PM: Making Get User Info Call..
+2/22/2018 2:30:58 PM: Get User Info Call completed..
+2/22/2018 2:33:27 PM: Fetching Discovery Data..
+2/22/2018 2:33:29 PM: Discovery Data obtained..
+2/22/2018 2:33:29 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:33:29 PM: Setting up Authorize url.
+2/22/2018 2:33:29 PM: Calling AuthorizeUrl.
+2/22/2018 2:33:30 PM: Authorization code obtained..
+2/22/2018 2:33:30 PM: Exchanging code for tokens..
+2/22/2018 2:33:31 PM: Refresh token obtained..
+2/22/2018 2:33:31 PM: Access token obtained..
+2/22/2018 2:33:31 PM: Id token obtained..
+2/22/2018 2:33:31 PM: Making IsIdToken Valid Call..
+2/22/2018 2:33:31 PM: Validating Id Token..
+2/22/2018 2:33:31 PM: Calling UserInfo.
+2/22/2018 2:33:31 PM: Making Get User Info Call..
+2/22/2018 2:33:32 PM: Get User Info Call completed..
+2/22/2018 2:44:24 PM: Fetching Discovery Data..
+2/22/2018 2:44:47 PM: Discovery error.
+2/22/2018 2:44:47 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:44:47 PM: Setting up Authorize url.
+2/22/2018 2:44:47 PM: Missing authorizationEndpoint url!.
+2/22/2018 2:44:54 PM: Fetching Discovery Data..
+2/22/2018 2:44:55 PM: Discovery Data obtained..
+2/22/2018 2:44:55 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:44:55 PM: Setting up Authorize url.
+2/22/2018 2:44:55 PM: Calling AuthorizeUrl.
+2/22/2018 2:44:59 PM: Invalid State.
+2/22/2018 2:45:16 PM: Fetching Discovery Data..
+2/22/2018 2:45:23 PM: Discovery Data obtained..
+2/22/2018 2:45:23 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:45:23 PM: Setting up Authorize url.
+2/22/2018 2:45:23 PM: Calling AuthorizeUrl.
+2/22/2018 2:45:28 PM: Authorization code obtained..
+2/22/2018 2:45:28 PM: Exchanging code for tokens..
+2/22/2018 2:45:29 PM: Refresh token obtained..
+2/22/2018 2:45:29 PM: Access token obtained..
+2/22/2018 2:45:29 PM: Id token obtained..
+2/22/2018 2:45:29 PM: Making IsIdToken Valid Call..
+2/22/2018 2:45:29 PM: Validating Id Token..
+2/22/2018 2:45:29 PM: Calling UserInfo.
+2/22/2018 2:45:29 PM: Making Get User Info Call..
+2/22/2018 2:45:51 PM: Get User Info Call completed..
+2/22/2018 2:48:20 PM: Fetching Discovery Data..
+2/22/2018 2:48:22 PM: Discovery Data obtained..
+2/22/2018 2:48:22 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:48:22 PM: Setting up Authorize url.
+2/22/2018 2:48:22 PM: Calling AuthorizeUrl.
+2/22/2018 2:48:26 PM: Authorization code obtained..
+2/22/2018 2:48:26 PM: Exchanging code for tokens..
+2/22/2018 2:48:27 PM: Refresh token obtained..
+2/22/2018 2:48:27 PM: Access token obtained..
+2/22/2018 2:48:27 PM: Id token obtained..
+2/22/2018 2:48:27 PM: Making IsIdToken Valid Call..
+2/22/2018 2:48:27 PM: Validating Id Token..
+2/22/2018 2:48:27 PM: Calling UserInfo.
+2/22/2018 2:48:27 PM: Making Get User Info Call..
+2/22/2018 2:48:28 PM: Get User Info Call completed..
+2/22/2018 2:49:22 PM: Fetching Discovery Data..
+2/22/2018 2:49:24 PM: Discovery Data obtained..
+2/22/2018 2:49:24 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:49:24 PM: Setting up Authorize url.
+2/22/2018 2:49:24 PM: Calling AuthorizeUrl.
+2/22/2018 2:49:27 PM: Authorization code obtained..
+2/22/2018 2:49:27 PM: Exchanging code for tokens..
+2/22/2018 2:49:28 PM: Refresh token obtained..
+2/22/2018 2:49:28 PM: Access token obtained..
+2/22/2018 2:49:28 PM: Id token obtained..
+2/22/2018 2:49:28 PM: Making IsIdToken Valid Call..
+2/22/2018 2:49:28 PM: Validating Id Token..
+2/22/2018 2:49:28 PM: Calling UserInfo.
+2/22/2018 2:49:28 PM: Making Get User Info Call..
+2/22/2018 2:49:29 PM: Get User Info Call completed..
+2/22/2018 2:55:16 PM: Fetching Discovery Data..
+2/22/2018 2:55:22 PM: Discovery Data obtained..
+2/22/2018 2:55:22 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:55:22 PM: Setting up Authorize url.
+2/22/2018 2:55:22 PM: Calling AuthorizeUrl.
+2/22/2018 2:55:43 PM: Fetching Discovery Data..
+2/22/2018 2:55:47 PM: Discovery Data obtained..
+2/22/2018 2:55:47 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:55:47 PM: Setting up Authorize url.
+2/22/2018 2:55:47 PM: Calling AuthorizeUrl.
+2/22/2018 2:55:54 PM: Invalid State.
+2/22/2018 2:55:57 PM: Fetching Discovery Data..
+2/22/2018 2:55:58 PM: Discovery Data obtained..
+2/22/2018 2:55:58 PM: Intiating OAuth2 call to get code..
+2/22/2018 2:55:58 PM: Setting up Authorize url.
+2/22/2018 2:55:59 PM: Calling AuthorizeUrl.
+2/22/2018 2:56:02 PM: Authorization code obtained..
+2/22/2018 2:56:02 PM: Exchanging code for tokens..
+2/22/2018 2:56:09 PM: Refresh token obtained..
+2/22/2018 2:56:09 PM: Access token obtained..
+2/22/2018 2:56:09 PM: Id token obtained..
+2/22/2018 2:56:09 PM: Making IsIdToken Valid Call..
+2/22/2018 2:56:09 PM: Validating Id Token..
+2/22/2018 2:56:09 PM: Calling UserInfo.
+2/22/2018 2:56:09 PM: Making Get User Info Call..
+2/22/2018 2:56:20 PM: Get User Info Call completed..
+2/22/2018 3:08:39 PM: Fetching Discovery Data..
+2/22/2018 3:08:41 PM: Discovery Data obtained..
+2/22/2018 3:08:41 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:08:41 PM: Setting up Authorize url.
+2/22/2018 3:08:41 PM: Calling AuthorizeUrl.
+2/22/2018 3:08:45 PM: Authorization code obtained..
+2/22/2018 3:08:45 PM: Exchanging code for tokens..
+2/22/2018 3:08:46 PM: Refresh token obtained..
+2/22/2018 3:08:46 PM: Access token obtained..
+2/22/2018 3:08:46 PM: Id token obtained..
+2/22/2018 3:08:46 PM: Making IsIdToken Valid Call..
+2/22/2018 3:08:46 PM: Validating Id Token..
+2/22/2018 3:08:46 PM: Calling UserInfo.
+2/22/2018 3:08:46 PM: Making Get User Info Call..
+2/22/2018 3:08:47 PM: Get User Info Call completed..
+2/22/2018 3:31:13 PM: Fetching Discovery Data..
+2/22/2018 3:31:19 PM: Discovery Data obtained..
+2/22/2018 3:31:19 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:31:19 PM: Setting up Authorize url.
+2/22/2018 3:31:19 PM: Calling AuthorizeUrl.
+2/22/2018 3:31:23 PM: Authorization code obtained..
+2/22/2018 3:31:23 PM: Exchanging code for tokens..
+2/22/2018 3:31:23 PM: Refresh token obtained..
+2/22/2018 3:31:23 PM: Access token obtained..
+2/22/2018 3:31:23 PM: Id token obtained..
+2/22/2018 3:31:23 PM: Making IsIdToken Valid Call..
+2/22/2018 3:31:23 PM: Validating Id Token..
+2/22/2018 3:31:23 PM: Calling UserInfo.
+2/22/2018 3:31:23 PM: Making Get User Info Call..
+2/22/2018 3:31:24 PM: Get User Info Call completed..
+2/22/2018 3:34:05 PM: Fetching Discovery Data..
+2/22/2018 3:34:07 PM: Discovery Data obtained..
+2/22/2018 3:34:07 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:34:07 PM: Setting up Authorize url.
+2/22/2018 3:34:07 PM: Calling AuthorizeUrl.
+2/22/2018 3:34:11 PM: Authorization code obtained..
+2/22/2018 3:34:11 PM: Exchanging code for tokens..
+2/22/2018 3:34:11 PM: Refresh token obtained..
+2/22/2018 3:34:12 PM: Access token obtained..
+2/22/2018 3:34:12 PM: Id token obtained..
+2/22/2018 3:34:12 PM: Making IsIdToken Valid Call..
+2/22/2018 3:34:12 PM: Validating Id Token..
+2/22/2018 3:34:12 PM: Calling UserInfo.
+2/22/2018 3:34:12 PM: Making Get User Info Call..
+2/22/2018 3:34:13 PM: Get User Info Call completed..
+2/22/2018 3:35:51 PM: Fetching Discovery Data..
+2/22/2018 3:35:53 PM: Discovery Data obtained..
+2/22/2018 3:35:53 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:35:53 PM: Setting up Authorize url.
+2/22/2018 3:35:53 PM: Calling AuthorizeUrl.
+2/22/2018 3:35:56 PM: Authorization code obtained..
+2/22/2018 3:35:56 PM: Exchanging code for tokens..
+2/22/2018 3:35:57 PM: Refresh token obtained..
+2/22/2018 3:35:57 PM: Access token obtained..
+2/22/2018 3:35:57 PM: Id token obtained..
+2/22/2018 3:35:57 PM: Making IsIdToken Valid Call..
+2/22/2018 3:35:57 PM: Validating Id Token..
+2/22/2018 3:35:57 PM: Calling UserInfo.
+2/22/2018 3:35:57 PM: Making Get User Info Call..
+2/22/2018 3:35:58 PM: Get User Info Call completed..
+2/22/2018 3:37:34 PM: Fetching Discovery Data..
+2/22/2018 3:37:37 PM: Discovery Data obtained..
+2/22/2018 3:37:37 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:37:37 PM: Setting up Authorize url.
+2/22/2018 3:37:37 PM: Calling AuthorizeUrl.
+2/22/2018 3:37:41 PM: Authorization code obtained..
+2/22/2018 3:37:41 PM: Exchanging code for tokens..
+2/22/2018 3:37:41 PM: Refresh token obtained..
+2/22/2018 3:37:41 PM: Access token obtained..
+2/22/2018 3:37:41 PM: Id token obtained..
+2/22/2018 3:37:41 PM: Making IsIdToken Valid Call..
+2/22/2018 3:37:41 PM: Validating Id Token..
+2/22/2018 3:37:41 PM: Calling UserInfo.
+2/22/2018 3:37:41 PM: Making Get User Info Call..
+2/22/2018 3:37:42 PM: Get User Info Call completed..
+2/22/2018 3:39:07 PM: Fetching Discovery Data..
+2/22/2018 3:39:09 PM: Discovery Data obtained..
+2/22/2018 3:39:09 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:39:09 PM: Setting up Authorize url.
+2/22/2018 3:39:09 PM: Calling AuthorizeUrl.
+2/22/2018 3:39:14 PM: Authorization code obtained..
+2/22/2018 3:39:14 PM: Exchanging code for tokens..
+2/22/2018 3:39:14 PM: Refresh token obtained..
+2/22/2018 3:39:14 PM: Access token obtained..
+2/22/2018 3:39:14 PM: Id token obtained..
+2/22/2018 3:39:14 PM: Making IsIdToken Valid Call..
+2/22/2018 3:39:14 PM: Validating Id Token..
+2/22/2018 3:39:14 PM: Calling UserInfo.
+2/22/2018 3:39:14 PM: Making Get User Info Call..
+2/22/2018 3:39:15 PM: Get User Info Call completed..
+2/22/2018 3:40:31 PM: Fetching Discovery Data..
+2/22/2018 3:40:33 PM: Discovery Data obtained..
+2/22/2018 3:40:33 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:40:33 PM: Setting up Authorize url.
+2/22/2018 3:40:33 PM: Calling AuthorizeUrl.
+2/22/2018 3:40:36 PM: Authorization code obtained..
+2/22/2018 3:40:36 PM: Exchanging code for tokens..
+2/22/2018 3:40:37 PM: Refresh token obtained..
+2/22/2018 3:40:37 PM: Access token obtained..
+2/22/2018 3:40:37 PM: Id token obtained..
+2/22/2018 3:40:37 PM: Making IsIdToken Valid Call..
+2/22/2018 3:40:37 PM: Validating Id Token..
+2/22/2018 3:40:37 PM: Calling UserInfo.
+2/22/2018 3:40:37 PM: Making Get User Info Call..
+2/22/2018 3:40:38 PM: Get User Info Call completed..
+2/22/2018 3:45:17 PM: Fetching Discovery Data..
+2/22/2018 3:45:19 PM: Discovery Data obtained..
+2/22/2018 3:45:19 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:45:19 PM: Setting up Authorize url.
+2/22/2018 3:45:19 PM: Calling AuthorizeUrl.
+2/22/2018 3:45:23 PM: Authorization code obtained..
+2/22/2018 3:45:23 PM: Exchanging code for tokens..
+2/22/2018 3:45:24 PM: Refresh token obtained..
+2/22/2018 3:45:24 PM: Access token obtained..
+2/22/2018 3:45:24 PM: Id token obtained..
+2/22/2018 3:45:24 PM: Making IsIdToken Valid Call..
+2/22/2018 3:45:24 PM: Validating Id Token..
+2/22/2018 3:45:24 PM: Calling UserInfo.
+2/22/2018 3:45:24 PM: Making Get User Info Call..
+2/22/2018 3:45:25 PM: Get User Info Call completed..
+2/22/2018 3:53:29 PM: Fetching Discovery Data..
+2/22/2018 3:53:31 PM: Discovery Data obtained..
+2/22/2018 3:53:31 PM: Intiating OAuth2 call to get code..
+2/22/2018 3:53:31 PM: Setting up Authorize url.
+2/22/2018 3:53:31 PM: Calling AuthorizeUrl.
+2/22/2018 3:53:35 PM: Authorization code obtained..
+2/22/2018 3:53:35 PM: Exchanging code for tokens..
+2/22/2018 3:53:35 PM: Refresh token obtained..
+2/22/2018 3:53:35 PM: Access token obtained..
+2/22/2018 3:53:35 PM: Id token obtained..
+2/22/2018 3:53:35 PM: Making IsIdToken Valid Call..
+2/22/2018 3:53:35 PM: Validating Id Token..
+2/22/2018 3:53:35 PM: Calling UserInfo.
+2/22/2018 3:53:35 PM: Making Get User Info Call..
+2/22/2018 3:53:37 PM: Get User Info Call completed..
+2/22/2018 4:10:07 PM: Fetching Discovery Data..
+2/22/2018 4:10:09 PM: Discovery Data obtained..
+2/22/2018 4:10:09 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:10:09 PM: Setting up Authorize url.
+2/22/2018 4:10:09 PM: Calling AuthorizeUrl.
+2/22/2018 4:10:13 PM: Authorization code obtained..
+2/22/2018 4:10:13 PM: Exchanging code for tokens..
+2/22/2018 4:10:14 PM: Refresh token obtained..
+2/22/2018 4:10:14 PM: Access token obtained..
+2/22/2018 4:10:14 PM: Id token obtained..
+2/22/2018 4:10:14 PM: Making IsIdToken Valid Call..
+2/22/2018 4:10:14 PM: Validating Id Token..
+2/22/2018 4:10:14 PM: Calling UserInfo.
+2/22/2018 4:10:14 PM: Making Get User Info Call..
+2/22/2018 4:10:15 PM: Get User Info Call completed..
+2/22/2018 4:13:13 PM: Fetching Discovery Data..
+2/22/2018 4:13:15 PM: Discovery Data obtained..
+2/22/2018 4:13:15 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:13:15 PM: Setting up Authorize url.
+2/22/2018 4:13:15 PM: Calling AuthorizeUrl.
+2/22/2018 4:13:18 PM: Authorization code obtained..
+2/22/2018 4:13:18 PM: Exchanging code for tokens..
+2/22/2018 4:13:19 PM: Refresh token obtained..
+2/22/2018 4:13:19 PM: Access token obtained..
+2/22/2018 4:13:19 PM: Id token obtained..
+2/22/2018 4:13:19 PM: Making IsIdToken Valid Call..
+2/22/2018 4:13:19 PM: Validating Id Token..
+2/22/2018 4:13:19 PM: Calling UserInfo.
+2/22/2018 4:13:19 PM: Making Get User Info Call..
+2/22/2018 4:13:20 PM: Get User Info Call completed..
+2/22/2018 4:31:50 PM: Fetching Discovery Data..
+2/22/2018 4:31:52 PM: Discovery Data obtained..
+2/22/2018 4:31:52 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:31:52 PM: Setting up Authorize url.
+2/22/2018 4:31:52 PM: Calling AuthorizeUrl.
+2/22/2018 4:31:56 PM: Authorization code obtained..
+2/22/2018 4:31:56 PM: Exchanging code for tokens..
+2/22/2018 4:31:57 PM: Refresh token obtained..
+2/22/2018 4:31:57 PM: Access token obtained..
+2/22/2018 4:31:57 PM: Id token obtained..
+2/22/2018 4:31:57 PM: Making IsIdToken Valid Call..
+2/22/2018 4:31:57 PM: Validating Id Token..
+2/22/2018 4:31:57 PM: Calling UserInfo.
+2/22/2018 4:31:57 PM: Making Get User Info Call..
+2/22/2018 4:31:58 PM: Get User Info Call completed..
+2/22/2018 4:35:54 PM: Fetching Discovery Data..
+2/22/2018 4:35:56 PM: Discovery Data obtained..
+2/22/2018 4:35:56 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:35:56 PM: Setting up Authorize url.
+2/22/2018 4:35:56 PM: Calling AuthorizeUrl.
+2/22/2018 4:36:00 PM: Authorization code obtained..
+2/22/2018 4:36:00 PM: Exchanging code for tokens..
+2/22/2018 4:36:01 PM: Refresh token obtained..
+2/22/2018 4:36:01 PM: Access token obtained..
+2/22/2018 4:36:01 PM: Id token obtained..
+2/22/2018 4:36:01 PM: Making IsIdToken Valid Call..
+2/22/2018 4:36:01 PM: Validating Id Token..
+2/22/2018 4:36:01 PM: Calling UserInfo.
+2/22/2018 4:36:01 PM: Making Get User Info Call..
+2/22/2018 4:36:02 PM: Get User Info Call completed..
+2/22/2018 4:41:46 PM: Fetching Discovery Data..
+2/22/2018 4:41:49 PM: Discovery Data obtained..
+2/22/2018 4:41:49 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:41:49 PM: Setting up Authorize url.
+2/22/2018 4:41:49 PM: Calling AuthorizeUrl.
+2/22/2018 4:41:53 PM: Authorization code obtained..
+2/22/2018 4:41:53 PM: Exchanging code for tokens..
+2/22/2018 4:41:54 PM: Refresh token obtained..
+2/22/2018 4:41:54 PM: Access token obtained..
+2/22/2018 4:41:54 PM: Id token obtained..
+2/22/2018 4:41:54 PM: Making IsIdToken Valid Call..
+2/22/2018 4:41:54 PM: Validating Id Token..
+2/22/2018 4:41:54 PM: Calling UserInfo.
+2/22/2018 4:41:54 PM: Making Get User Info Call..
+2/22/2018 4:41:55 PM: Get User Info Call completed..
+2/22/2018 4:44:18 PM: Fetching Discovery Data..
+2/22/2018 4:44:20 PM: Discovery Data obtained..
+2/22/2018 4:44:20 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:44:20 PM: Setting up Authorize url.
+2/22/2018 4:44:20 PM: Calling AuthorizeUrl.
+2/22/2018 4:44:32 PM: Authorization code obtained..
+2/22/2018 4:44:32 PM: Exchanging code for tokens..
+2/22/2018 4:44:32 PM: Refresh token obtained..
+2/22/2018 4:44:32 PM: Access token obtained..
+2/22/2018 4:44:32 PM: Id token obtained..
+2/22/2018 4:44:32 PM: Making IsIdToken Valid Call..
+2/22/2018 4:44:32 PM: Validating Id Token..
+2/22/2018 4:44:32 PM: Calling UserInfo.
+2/22/2018 4:44:32 PM: Making Get User Info Call..
+2/22/2018 4:44:33 PM: Get User Info Call completed..
+2/22/2018 4:57:27 PM: Fetching Discovery Data..
+2/22/2018 4:57:29 PM: Discovery Data obtained..
+2/22/2018 4:57:29 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:57:29 PM: Setting up Authorize url.
+2/22/2018 4:57:29 PM: Calling AuthorizeUrl.
+2/22/2018 4:57:34 PM: Authorization code obtained..
+2/22/2018 4:57:34 PM: Exchanging code for tokens..
+2/22/2018 4:57:35 PM: Refresh token obtained..
+2/22/2018 4:57:35 PM: Access token obtained..
+2/22/2018 4:57:35 PM: Id token obtained..
+2/22/2018 4:57:35 PM: Making IsIdToken Valid Call..
+2/22/2018 4:57:35 PM: Validating Id Token..
+2/22/2018 4:57:35 PM: Calling UserInfo.
+2/22/2018 4:57:35 PM: Making Get User Info Call..
+2/22/2018 4:57:36 PM: Get User Info Call completed..
+2/22/2018 4:59:52 PM: Fetching Discovery Data..
+2/22/2018 4:59:54 PM: Discovery Data obtained..
+2/22/2018 4:59:54 PM: Intiating OAuth2 call to get code..
+2/22/2018 4:59:54 PM: Setting up Authorize url.
+2/22/2018 4:59:54 PM: Calling AuthorizeUrl.
+2/22/2018 5:00:00 PM: Authorization code obtained..
+2/22/2018 5:00:00 PM: Exchanging code for tokens..
+2/22/2018 5:00:01 PM: Refresh token obtained..
+2/22/2018 5:00:01 PM: Access token obtained..
+2/22/2018 5:00:01 PM: Id token obtained..
+2/22/2018 5:00:01 PM: Making IsIdToken Valid Call..
+2/22/2018 5:00:01 PM: Validating Id Token..
+2/22/2018 5:00:01 PM: Calling UserInfo.
+2/22/2018 5:00:01 PM: Making Get User Info Call..
+2/22/2018 5:00:02 PM: Get User Info Call completed..
+2/22/2018 5:02:19 PM: Fetching Discovery Data..
+2/22/2018 5:02:21 PM: Discovery Data obtained..
+2/22/2018 5:02:21 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:02:21 PM: Setting up Authorize url.
+2/22/2018 5:02:21 PM: Calling AuthorizeUrl.
+2/22/2018 5:02:25 PM: Authorization code obtained..
+2/22/2018 5:02:25 PM: Exchanging code for tokens..
+2/22/2018 5:02:26 PM: Refresh token obtained..
+2/22/2018 5:02:26 PM: Access token obtained..
+2/22/2018 5:02:26 PM: Id token obtained..
+2/22/2018 5:02:26 PM: Making IsIdToken Valid Call..
+2/22/2018 5:02:26 PM: Validating Id Token..
+2/22/2018 5:02:26 PM: Calling UserInfo.
+2/22/2018 5:02:26 PM: Making Get User Info Call..
+2/22/2018 5:02:27 PM: Get User Info Call completed..
+2/22/2018 5:06:25 PM: Fetching Discovery Data..
+2/22/2018 5:06:27 PM: Discovery Data obtained..
+2/22/2018 5:06:27 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:06:27 PM: Setting up Authorize url.
+2/22/2018 5:06:27 PM: Calling AuthorizeUrl.
+2/22/2018 5:06:31 PM: Authorization code obtained..
+2/22/2018 5:06:31 PM: Exchanging code for tokens..
+2/22/2018 5:06:31 PM: Refresh token obtained..
+2/22/2018 5:06:31 PM: Access token obtained..
+2/22/2018 5:06:31 PM: Id token obtained..
+2/22/2018 5:06:31 PM: Making IsIdToken Valid Call..
+2/22/2018 5:06:31 PM: Validating Id Token..
+2/22/2018 5:06:31 PM: Calling UserInfo.
+2/22/2018 5:06:31 PM: Making Get User Info Call..
+2/22/2018 5:06:32 PM: Get User Info Call completed..
+2/22/2018 5:20:44 PM: Fetching Discovery Data..
+2/22/2018 5:20:46 PM: Discovery Data obtained..
+2/22/2018 5:20:46 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:20:46 PM: Setting up Authorize url.
+2/22/2018 5:20:46 PM: Calling AuthorizeUrl.
+2/22/2018 5:20:50 PM: Authorization code obtained..
+2/22/2018 5:20:50 PM: Exchanging code for tokens..
+2/22/2018 5:20:51 PM: Refresh token obtained..
+2/22/2018 5:20:51 PM: Access token obtained..
+2/22/2018 5:20:51 PM: Id token obtained..
+2/22/2018 5:20:51 PM: Making IsIdToken Valid Call..
+2/22/2018 5:20:51 PM: Validating Id Token..
+2/22/2018 5:20:51 PM: Calling UserInfo.
+2/22/2018 5:20:51 PM: Making Get User Info Call..
+2/22/2018 5:20:52 PM: Get User Info Call completed..
+2/22/2018 5:22:44 PM: Fetching Discovery Data..
+2/22/2018 5:22:46 PM: Discovery Data obtained..
+2/22/2018 5:22:46 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:22:46 PM: Setting up Authorize url.
+2/22/2018 5:22:46 PM: Calling AuthorizeUrl.
+2/22/2018 5:22:49 PM: Authorization code obtained..
+2/22/2018 5:22:49 PM: Exchanging code for tokens..
+2/22/2018 5:22:50 PM: Refresh token obtained..
+2/22/2018 5:22:50 PM: Access token obtained..
+2/22/2018 5:22:50 PM: Id token obtained..
+2/22/2018 5:22:50 PM: Making IsIdToken Valid Call..
+2/22/2018 5:22:50 PM: Validating Id Token..
+2/22/2018 5:22:50 PM: Calling UserInfo.
+2/22/2018 5:22:50 PM: Making Get User Info Call..
+2/22/2018 5:22:51 PM: Get User Info Call completed..
+2/22/2018 5:25:31 PM: Fetching Discovery Data..
+2/22/2018 5:25:33 PM: Discovery Data obtained..
+2/22/2018 5:25:33 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:25:33 PM: Setting up Authorize url.
+2/22/2018 5:25:33 PM: Calling AuthorizeUrl.
+2/22/2018 5:25:37 PM: Authorization code obtained..
+2/22/2018 5:25:37 PM: Exchanging code for tokens..
+2/22/2018 5:25:37 PM: Refresh token obtained..
+2/22/2018 5:25:37 PM: Access token obtained..
+2/22/2018 5:25:37 PM: Id token obtained..
+2/22/2018 5:25:37 PM: Making IsIdToken Valid Call..
+2/22/2018 5:25:37 PM: Validating Id Token..
+2/22/2018 5:25:37 PM: Calling UserInfo.
+2/22/2018 5:25:37 PM: Making Get User Info Call..
+2/22/2018 5:25:38 PM: Get User Info Call completed..
+2/22/2018 5:35:00 PM: Fetching Discovery Data..
+2/22/2018 5:35:02 PM: Discovery Data obtained..
+2/22/2018 5:35:02 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:35:02 PM: Setting up Authorize url.
+2/22/2018 5:35:02 PM: Calling AuthorizeUrl.
+2/22/2018 5:35:06 PM: Authorization code obtained..
+2/22/2018 5:35:06 PM: Exchanging code for tokens..
+2/22/2018 5:35:06 PM: Refresh token obtained..
+2/22/2018 5:35:06 PM: Access token obtained..
+2/22/2018 5:35:06 PM: Id token obtained..
+2/22/2018 5:35:06 PM: Making IsIdToken Valid Call..
+2/22/2018 5:35:06 PM: Validating Id Token..
+2/22/2018 5:35:06 PM: Calling UserInfo.
+2/22/2018 5:35:06 PM: Making Get User Info Call..
+2/22/2018 5:35:07 PM: Get User Info Call completed..
+2/22/2018 5:36:52 PM: Fetching Discovery Data..
+2/22/2018 5:36:54 PM: Discovery Data obtained..
+2/22/2018 5:36:54 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:36:54 PM: Setting up Authorize url.
+2/22/2018 5:36:54 PM: Calling AuthorizeUrl.
+2/22/2018 5:36:57 PM: Authorization code obtained..
+2/22/2018 5:36:57 PM: Exchanging code for tokens..
+2/22/2018 5:36:57 PM: Refresh token obtained..
+2/22/2018 5:36:57 PM: Access token obtained..
+2/22/2018 5:36:58 PM: Id token obtained..
+2/22/2018 5:36:58 PM: Making IsIdToken Valid Call..
+2/22/2018 5:36:58 PM: Validating Id Token..
+2/22/2018 5:36:58 PM: Calling UserInfo.
+2/22/2018 5:36:58 PM: Making Get User Info Call..
+2/22/2018 5:36:58 PM: Get User Info Call completed..
+2/22/2018 5:38:30 PM: Fetching Discovery Data..
+2/22/2018 5:38:32 PM: Discovery Data obtained..
+2/22/2018 5:38:32 PM: Intiating OAuth2 call to get code..
+2/22/2018 5:38:32 PM: Setting up Authorize url.
+2/22/2018 5:38:32 PM: Calling AuthorizeUrl.
+2/22/2018 5:38:35 PM: Authorization code obtained..
+2/22/2018 5:38:35 PM: Exchanging code for tokens..
+2/22/2018 5:38:35 PM: Refresh token obtained..
+2/22/2018 5:38:35 PM: Access token obtained..
+2/22/2018 5:38:35 PM: Id token obtained..
+2/22/2018 5:38:35 PM: Making IsIdToken Valid Call..
+2/22/2018 5:38:35 PM: Validating Id Token..
+2/22/2018 5:38:35 PM: Calling UserInfo.
+2/22/2018 5:38:35 PM: Making Get User Info Call..
+2/22/2018 5:38:36 PM: Get User Info Call completed..
+2/23/2018 12:27:55 AM: Fetching Discovery Data..
+2/23/2018 12:27:57 AM: Discovery Data obtained..
+2/23/2018 12:27:58 AM: Intiating OAuth2 call to get code..
+2/23/2018 12:27:58 AM: Setting up Authorize url.
+2/23/2018 12:27:58 AM: Calling AuthorizeUrl.
+2/23/2018 12:28:03 AM: Authorization code obtained..
+2/23/2018 12:28:03 AM: Exchanging code for tokens..
+2/23/2018 12:28:03 AM: Refresh token obtained..
+2/23/2018 12:28:03 AM: Access token obtained..
+2/23/2018 12:28:03 AM: Id token obtained..
+2/23/2018 12:28:03 AM: Making IsIdToken Valid Call..
+2/23/2018 12:28:03 AM: Validating Id Token..
+2/23/2018 12:28:03 AM: Calling UserInfo.
+2/23/2018 12:28:03 AM: Making Get User Info Call..
+2/23/2018 12:28:04 AM: Get User Info Call completed..
+2/23/2018 12:45:52 AM: Fetching Discovery Data..
+2/23/2018 12:45:54 AM: Discovery Data obtained..
+2/23/2018 12:45:54 AM: Intiating OAuth2 call to get code..
+2/23/2018 12:45:54 AM: Setting up Authorize url.
+2/23/2018 12:45:54 AM: Calling AuthorizeUrl.
+2/23/2018 12:46:00 AM: Authorization code obtained..
+2/23/2018 12:46:00 AM: Exchanging code for tokens..
+2/23/2018 12:46:00 AM: Refresh token obtained..
+2/23/2018 12:46:00 AM: Access token obtained..
+2/23/2018 12:46:00 AM: Id token obtained..
+2/23/2018 12:46:00 AM: Making IsIdToken Valid Call..
+2/23/2018 12:46:00 AM: Validating Id Token..
+2/23/2018 12:46:00 AM: Calling UserInfo.
+2/23/2018 12:46:00 AM: Making Get User Info Call..
+2/23/2018 12:46:01 AM: Get User Info Call completed..
+2/23/2018 12:46:08 AM: Making QBO API Call..
+2/23/2018 12:46:11 AM: QBO call successful..
+2/23/2018 12:47:04 AM: Fetching Discovery Data..
+2/23/2018 12:47:06 AM: Discovery Data obtained..
+2/23/2018 12:47:06 AM: Intiating OAuth2 call to get code..
+2/23/2018 12:47:06 AM: Setting up Authorize url.
+2/23/2018 12:47:06 AM: Calling AuthorizeUrl.
+2/23/2018 12:47:09 AM: Authorization code obtained..
+2/23/2018 12:47:09 AM: Exchanging code for tokens..
+2/23/2018 12:47:10 AM: Refresh token obtained..
+2/23/2018 12:47:10 AM: Access token obtained..
+2/23/2018 12:47:10 AM: Id token obtained..
+2/23/2018 12:47:10 AM: Making IsIdToken Valid Call..
+2/23/2018 12:47:10 AM: Validating Id Token..
+2/23/2018 12:47:10 AM: Calling UserInfo.
+2/23/2018 12:47:10 AM: Making Get User Info Call..
+2/23/2018 12:47:11 AM: Get User Info Call completed..
+2/23/2018 12:47:17 AM: Making QBO API Call..
+2/23/2018 12:47:20 AM: QBO call successful..
+2/23/2018 12:48:37 AM: Fetching Discovery Data..
+2/23/2018 12:48:39 AM: Discovery Data obtained..
+2/23/2018 12:48:39 AM: Intiating OAuth2 call to get code..
+2/23/2018 12:48:39 AM: Setting up Authorize url.
+2/23/2018 12:48:39 AM: Calling AuthorizeUrl.
+2/23/2018 12:48:43 AM: Authorization code obtained..
+2/23/2018 12:48:43 AM: Exchanging code for tokens..
+2/23/2018 12:48:43 AM: Refresh token obtained..
+2/23/2018 12:48:43 AM: Access token obtained..
+2/23/2018 12:48:43 AM: Id token obtained..
+2/23/2018 12:48:43 AM: Making IsIdToken Valid Call..
+2/23/2018 12:48:43 AM: Validating Id Token..
+2/23/2018 12:48:43 AM: Calling UserInfo.
+2/23/2018 12:48:43 AM: Making Get User Info Call..
+2/23/2018 12:48:44 AM: Get User Info Call completed..
+2/23/2018 12:48:50 AM: Making QBO API Call..
+2/23/2018 12:48:53 AM: QBO call successful..
+2/23/2018 12:50:50 AM: Fetching Discovery Data..
+2/23/2018 12:50:52 AM: Discovery Data obtained..
+2/23/2018 12:50:52 AM: Intiating OAuth2 call to get code..
+2/23/2018 12:50:52 AM: Setting up Authorize url.
+2/23/2018 12:50:52 AM: Calling AuthorizeUrl.
+2/23/2018 12:50:57 AM: Authorization code obtained..
+2/23/2018 12:50:57 AM: Exchanging code for tokens..
+2/23/2018 12:50:58 AM: Refresh token obtained..
+2/23/2018 12:50:58 AM: Access token obtained..
+2/23/2018 12:50:58 AM: Id token obtained..
+2/23/2018 12:50:58 AM: Making IsIdToken Valid Call..
+2/23/2018 12:50:58 AM: Validating Id Token..
+2/23/2018 12:50:58 AM: Calling UserInfo.
+2/23/2018 12:50:58 AM: Making Get User Info Call..
+2/23/2018 12:50:59 AM: Get User Info Call completed..
+2/23/2018 12:51:05 AM: Making QBO API Call..
+2/23/2018 12:51:09 AM: QBO call successful..
+2/23/2018 12:53:01 AM: Fetching Discovery Data..
+2/23/2018 12:53:03 AM: Discovery Data obtained..
+2/23/2018 12:53:03 AM: Intiating OAuth2 call to get code..
+2/23/2018 12:53:03 AM: Setting up Authorize url.
+2/23/2018 12:53:03 AM: Calling AuthorizeUrl.
+2/23/2018 12:53:08 AM: Authorization code obtained..
+2/23/2018 12:53:08 AM: Exchanging code for tokens..
+2/23/2018 12:53:08 AM: Refresh token obtained..
+2/23/2018 12:53:08 AM: Access token obtained..
+2/23/2018 12:53:08 AM: Id token obtained..
+2/23/2018 12:53:09 AM: Making IsIdToken Valid Call..
+2/23/2018 12:53:09 AM: Validating Id Token..
+2/23/2018 12:53:09 AM: Calling UserInfo.
+2/23/2018 12:53:09 AM: Making Get User Info Call..
+2/23/2018 12:53:09 AM: Get User Info Call completed..
+3/29/2018 7:20:13 PM: Fetching Discovery Data..
+3/29/2018 7:20:16 PM: Discovery Data obtained..
+3/29/2018 7:20:16 PM: Intiating OAuth2 call to get code..
+3/29/2018 7:20:16 PM: Setting up Authorize url.
+3/29/2018 7:20:16 PM: Calling AuthorizeUrl.
+3/29/2018 7:20:44 PM: Authorization code obtained..
+3/29/2018 7:20:44 PM: Exchanging code for tokens..
+3/29/2018 7:20:44 PM: Refresh token obtained..
+3/29/2018 7:20:44 PM: Access token obtained..
+3/29/2018 7:20:44 PM: Id token obtained..
+3/29/2018 7:20:44 PM: Making IsIdToken Valid Call..
+3/29/2018 7:20:44 PM: Validating Id Token..
+3/29/2018 7:20:44 PM: Calling UserInfo.
+3/29/2018 7:20:44 PM: Making Get User Info Call..
+3/29/2018 7:20:45 PM: Get User Info Call completed..
+3/29/2018 7:42:11 PM: Fetching Discovery Data..
+3/29/2018 7:42:13 PM: Discovery Data obtained..
+3/29/2018 7:42:13 PM: Intiating OAuth2 call to get code..
+3/29/2018 7:42:13 PM: Setting up Authorize url.
+3/29/2018 7:42:13 PM: Calling AuthorizeUrl.
+3/29/2018 7:42:19 PM: Authorization code obtained..
+3/29/2018 7:42:19 PM: Exchanging code for tokens..
+3/29/2018 7:42:19 PM: Refresh token obtained..
+3/29/2018 7:42:19 PM: Access token obtained..
+3/29/2018 7:42:19 PM: Id token obtained..
+3/29/2018 7:42:20 PM: Making IsIdToken Valid Call..
+3/29/2018 7:42:20 PM: Validating Id Token..
+3/29/2018 7:42:20 PM: Calling UserInfo.
+3/29/2018 7:42:20 PM: Making Get User Info Call..
+3/29/2018 7:42:21 PM: Get User Info Call completed..
+3/29/2018 7:45:11 PM: Fetching Discovery Data..
+3/29/2018 7:45:13 PM: Discovery Data obtained..
+3/29/2018 7:45:13 PM: Intiating OAuth2 call to get code..
+3/29/2018 7:45:13 PM: Setting up Authorize url.
+3/29/2018 7:45:13 PM: Calling AuthorizeUrl.
+3/29/2018 7:45:18 PM: Authorization code obtained..
+3/29/2018 7:45:18 PM: Exchanging code for tokens..
+3/29/2018 7:45:18 PM: Refresh token obtained..
+3/29/2018 7:45:18 PM: Access token obtained..
+3/29/2018 7:45:18 PM: Id token obtained..
+3/29/2018 7:45:18 PM: Making IsIdToken Valid Call..
+3/29/2018 7:45:18 PM: Validating Id Token..
+3/29/2018 7:45:18 PM: Calling UserInfo.
+3/29/2018 7:45:18 PM: Making Get User Info Call..
+3/29/2018 7:45:19 PM: Get User Info Call completed..
+3/29/2018 7:46:57 PM: Fetching Discovery Data..
+3/29/2018 7:46:59 PM: Discovery Data obtained..
+3/29/2018 7:46:59 PM: Intiating OAuth2 call to get code..
+3/29/2018 7:46:59 PM: Setting up Authorize url.
+3/29/2018 7:46:59 PM: Calling AuthorizeUrl.
+3/29/2018 7:47:03 PM: Authorization code obtained..
+3/29/2018 7:47:03 PM: Exchanging code for tokens..
+3/29/2018 7:47:03 PM: Refresh token obtained..
+3/29/2018 7:47:03 PM: Access token obtained..
+3/29/2018 7:47:03 PM: Id token obtained..
+3/29/2018 7:47:03 PM: Making IsIdToken Valid Call..
+3/29/2018 7:47:03 PM: Validating Id Token..
+3/29/2018 7:47:03 PM: Calling UserInfo.
+3/29/2018 7:47:03 PM: Making Get User Info Call..
+3/29/2018 7:47:04 PM: Get User Info Call completed..
+3/29/2018 7:50:12 PM: Fetching Discovery Data..
+3/29/2018 7:50:14 PM: Discovery Data obtained..
+3/29/2018 7:50:14 PM: Intiating OAuth2 call to get code..
+3/29/2018 7:50:14 PM: Setting up Authorize url.
+3/29/2018 7:50:14 PM: Calling AuthorizeUrl.
+3/29/2018 7:50:20 PM: Authorization code obtained..
+3/29/2018 7:50:20 PM: Exchanging code for tokens..
+3/29/2018 7:50:21 PM: Refresh token obtained..
+3/29/2018 7:50:21 PM: Access token obtained..
+3/29/2018 7:50:21 PM: Id token obtained..
+3/29/2018 7:50:21 PM: Making IsIdToken Valid Call..
+3/29/2018 7:50:21 PM: Validating Id Token..
+3/29/2018 7:50:21 PM: Calling UserInfo.
+3/29/2018 7:50:21 PM: Making Get User Info Call..
+3/29/2018 7:50:22 PM: Get User Info Call completed..
+3/29/2018 8:10:05 PM: Fetching Discovery Data..
+3/29/2018 8:10:07 PM: Discovery Data obtained..
+3/29/2018 8:10:07 PM: Intiating OAuth2 call to get code..
+3/29/2018 8:10:07 PM: Setting up Authorize url.
+3/29/2018 8:10:07 PM: Calling AuthorizeUrl.
+3/29/2018 8:10:12 PM: Authorization code obtained..
+3/29/2018 8:10:12 PM: Exchanging code for tokens..
+3/29/2018 8:10:13 PM: Refresh token obtained..
+3/29/2018 8:10:13 PM: Access token obtained..
+3/29/2018 8:10:13 PM: Id token obtained..
+3/29/2018 8:10:13 PM: Making IsIdToken Valid Call..
+3/29/2018 8:10:13 PM: Validating Id Token..
+3/29/2018 8:10:13 PM: Calling UserInfo.
+3/29/2018 8:10:13 PM: Making Get User Info Call..
+3/29/2018 8:10:14 PM: Get User Info Call completed..
+3/29/2018 8:11:51 PM: Fetching Discovery Data..
+3/29/2018 8:11:53 PM: Discovery Data obtained..
+3/29/2018 8:11:53 PM: Intiating OAuth2 call to get code..
+3/29/2018 8:11:53 PM: Setting up Authorize url.
+3/29/2018 8:11:53 PM: Calling AuthorizeUrl.
+3/29/2018 8:11:58 PM: Authorization code obtained..
+3/29/2018 8:11:58 PM: Exchanging code for tokens..
+3/29/2018 8:11:58 PM: Refresh token obtained..
+3/29/2018 8:11:58 PM: Access token obtained..
+3/29/2018 8:11:58 PM: Id token obtained..
+3/29/2018 8:11:58 PM: Making IsIdToken Valid Call..
+3/29/2018 8:11:58 PM: Validating Id Token..
+3/29/2018 8:11:58 PM: Calling UserInfo.
+3/29/2018 8:11:58 PM: Making Get User Info Call..
+3/29/2018 8:11:59 PM: Get User Info Call completed..
+3/29/2018 8:13:46 PM: Fetching Discovery Data..
+3/29/2018 8:13:49 PM: Discovery Data obtained..
+3/29/2018 8:13:49 PM: Intiating OAuth2 call to get code..
+3/29/2018 8:13:49 PM: Setting up Authorize url.
+3/29/2018 8:13:49 PM: Calling AuthorizeUrl.
+3/29/2018 8:13:53 PM: Authorization code obtained..
+3/29/2018 8:13:53 PM: Exchanging code for tokens..
+3/29/2018 8:13:54 PM: Refresh token obtained..
+3/29/2018 8:13:54 PM: Access token obtained..
+3/29/2018 8:13:54 PM: Id token obtained..
+3/29/2018 8:13:54 PM: Making IsIdToken Valid Call..
+3/29/2018 8:13:54 PM: Validating Id Token..
+3/29/2018 8:13:54 PM: Calling UserInfo.
+3/29/2018 8:13:54 PM: Making Get User Info Call..
+3/29/2018 8:13:54 PM: Get User Info Call completed..
+3/29/2018 8:15:33 PM: Fetching Discovery Data..
+3/29/2018 8:15:35 PM: Discovery Data obtained..
+3/29/2018 8:15:35 PM: Intiating OAuth2 call to get code..
+3/29/2018 8:15:35 PM: Setting up Authorize url.
+3/29/2018 8:15:35 PM: Calling AuthorizeUrl.
+3/29/2018 8:15:39 PM: Authorization code obtained..
+3/29/2018 8:15:39 PM: Exchanging code for tokens..
+3/29/2018 8:15:40 PM: Refresh token obtained..
+3/29/2018 8:15:40 PM: Access token obtained..
+3/29/2018 8:15:40 PM: Id token obtained..
+3/29/2018 8:15:40 PM: Making IsIdToken Valid Call..
+3/29/2018 8:15:40 PM: Validating Id Token..
+3/29/2018 8:15:40 PM: Calling UserInfo.
+3/29/2018 8:15:40 PM: Making Get User Info Call..
+3/29/2018 8:15:41 PM: Get User Info Call completed..
+3/29/2018 8:37:42 PM: Fetching Discovery Data..
+3/29/2018 8:37:45 PM: Discovery Data obtained..
+3/29/2018 8:37:45 PM: Intiating OAuth2 call to get code..
+3/29/2018 8:37:45 PM: Setting up Authorize url.
+3/29/2018 8:37:45 PM: Calling AuthorizeUrl.
+3/29/2018 8:37:49 PM: Authorization code obtained..
+3/29/2018 8:37:49 PM: Exchanging code for tokens..
+3/29/2018 8:37:50 PM: Refresh token obtained..
+3/29/2018 8:37:50 PM: Access token obtained..
+3/29/2018 8:37:50 PM: Id token obtained..
+3/29/2018 8:37:50 PM: Making IsIdToken Valid Call..
+3/29/2018 8:37:50 PM: Validating Id Token..
+3/29/2018 8:37:50 PM: Calling UserInfo.
+3/29/2018 8:37:50 PM: Making Get User Info Call..
+3/29/2018 8:37:51 PM: Get User Info Call completed..
+3/29/2018 8:41:05 PM: Fetching Discovery Data..
+3/29/2018 8:41:07 PM: Discovery Data obtained..
+3/29/2018 8:41:07 PM: Intiating OAuth2 call to get code..
+3/29/2018 8:41:07 PM: Setting up Authorize url.
+3/29/2018 8:41:07 PM: Calling AuthorizeUrl.
+3/29/2018 8:41:12 PM: Authorization code obtained..
+3/29/2018 8:41:12 PM: Exchanging code for tokens..
+3/29/2018 8:41:12 PM: Refresh token obtained..
+3/29/2018 8:41:12 PM: Access token obtained..
+3/29/2018 8:41:12 PM: Id token obtained..
+3/29/2018 8:41:12 PM: Making IsIdToken Valid Call..
+3/29/2018 8:41:12 PM: Validating Id Token..
+3/29/2018 8:41:12 PM: Calling UserInfo.
+3/29/2018 8:41:12 PM: Making Get User Info Call..
+3/29/2018 8:41:13 PM: Get User Info Call completed..

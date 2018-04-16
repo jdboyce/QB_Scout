@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Publish\QB_Scout</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DevDefined.OAuth.dll">
+      <publishTime>01/21/2014 16:23:40</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Core.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Data.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.DataService.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Diagnostics.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Exception.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.GlobalTaxService.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.LinqExtender.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.OAuth2PlatformClient.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.PlatformService.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.QueryFilter.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.ReportService.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Retry.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Security.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.Utility.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Intuit.Ipp.WebHooksService.dll">
+      <publishTime>03/02/2018 16:02:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/16/2017 14:14:32</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 17:44:14</publishTime>
+    </File>
+    <File Include="bin/QB_Scout.dll">
+      <publishTime>04/13/2018 22:47:08</publishTime>
+    </File>
+    <File Include="bin/QB_Scout.pdb">
+      <publishTime>04/13/2018 22:47:08</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>01/06/2018 12:54:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/20/2018 14:37:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>02/20/2018 14:37:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/20/2018 14:37:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.Process.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.DriveInfo.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Thread.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/20/2018 14:37:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/20/2018 14:30:48</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>07/19/2017 10:01:32</publishTime>
+    </File>
+    <File Include="css/bootoast.min.css">
+      <publishTime>04/13/2018 22:44:24</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/13/2018 22:43:16</publishTime>
+    </File>
+    <File Include="Images/C2QB_white_btn_lg_default.png">
+      <publishTime>01/18/2018 16:44:15</publishTime>
+    </File>
+    <File Include="Images/C2QB_white_btn_lg_hover.png">
+      <publishTime>01/18/2018 16:44:15</publishTime>
+    </File>
+    <File Include="Images/Get_App.png">
+      <publishTime>01/18/2018 16:44:15</publishTime>
+    </File>
+    <File Include="Images/IntuitSignIn-lg-white%402x.jpg">
+      <publishTime>01/18/2018 16:44:15</publishTime>
+    </File>
+    <File Include="js/bootoast.min.js">
+      <publishTime>04/13/2018 22:44:37</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/13/2018 10:52:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/13/2018 22:49:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
