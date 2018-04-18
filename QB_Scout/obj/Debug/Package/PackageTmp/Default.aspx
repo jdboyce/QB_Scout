@@ -229,7 +229,7 @@
                     </fieldset>
                     <center>
                         <fieldset class="reader-config-group ">
-                            <label>
+                            <label style="display: none ">
                                 <span>Barcode-Type</span>
                                 <select name="decoder_readers ">
                                     <option value="code_128 " selected="selected ">Code 128</option>
