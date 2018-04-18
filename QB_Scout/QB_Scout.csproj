@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
   <Import Project="..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.4.0\build\Microsoft.Net.Compilers.props')" />
   <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -25,6 +26,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TargetFrameworkProfile />
+    <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -178,6 +180,239 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Barcode_Scanner\base_folder\banner.png" />
+    <Content Include="Barcode_Scanner\base_folder\camera_example.html" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-grid.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-grid.min.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-reboot.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-reboot.min.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap.min.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\colors.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\fonts.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\styles.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\themes.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\x.css" />
+    <Content Include="Barcode_Scanner\base_folder\css\xmin.css" />
+    <Content Include="Barcode_Scanner\base_folder\file_input.html" />
+    <Content Include="Barcode_Scanner\base_folder\file_input.js" />
+    <Content Include="Barcode_Scanner\base_folder\index.html" />
+    <Content Include="Barcode_Scanner\base_folder\js\bootstrap.js" />
+    <Content Include="Barcode_Scanner\base_folder\js\bootstrap.min.js" />
+    <Content Include="Barcode_Scanner\base_folder\live_w_locator.js" />
+    <Content Include="Barcode_Scanner\base_folder\node-test-with-buffer.js" />
+    <Content Include="Barcode_Scanner\base_folder\node-test.js" />
+    <Content Include="Barcode_Scanner\base_folder\qb_scout_banner.png" />
+    <Content Include="Barcode_Scanner\base_folder\scout_logo.png" />
+    <Content Include="Barcode_Scanner\base_folder\static_images.html" />
+    <Content Include="Barcode_Scanner\base_folder\static_images.js" />
+    <Content Include="Barcode_Scanner\base_folder\vendor\jquery-1.9.0.min.js" />
+    <Content Include="Barcode_Scanner\dist\quagga.js" />
+    <Content Include="Barcode_Scanner\dist\quagga.min.js" />
+    <Content Include="Barcode_Scanner\doc\img\banner.png" />
+    <Content Include="Barcode_Scanner\doc\img\bb-binary.png" />
+    <Content Include="Barcode_Scanner\doc\img\bb-rotated.png" />
+    <Content Include="Barcode_Scanner\doc\img\binary.png" />
+    <Content Include="Barcode_Scanner\doc\img\component-labeling-line.png" />
+    <Content Include="Barcode_Scanner\doc\img\component-labeling-text.png" />
+    <Content Include="Barcode_Scanner\doc\img\component-labeling.png" />
+    <Content Include="Barcode_Scanner\doc\img\connected-patch-labels.png" />
+    <Content Include="Barcode_Scanner\doc\img\mobile-detected.png" />
+    <Content Include="Barcode_Scanner\doc\img\mobile-located.png" />
+    <Content Include="Barcode_Scanner\doc\img\patches_found.png" />
+    <Content Include="Barcode_Scanner\doc\img\quaggaJS-code128.png" />
+    <Content Include="Barcode_Scanner\doc\img\remaining-patch-labels.png" />
+    <Content Include="Barcode_Scanner\doc\img\scout_logo.png" />
+    <Content Include="Barcode_Scanner\doc\img\skeleton.png" />
+    <Content Include="Barcode_Scanner\doc\img\teaser.png" />
+    <Content Include="Barcode_Scanner\env\development.js" />
+    <Content Include="Barcode_Scanner\env\node.js" />
+    <Content Include="Barcode_Scanner\env\production.js" />
+    <Content Include="Barcode_Scanner\Gruntfile.js" />
+    <Content Include="Barcode_Scanner\index.html" />
+    <Content Include="Barcode_Scanner\karma-integration.conf.js" />
+    <Content Include="Barcode_Scanner\karma.conf.js" />
+    <Content Include="Barcode_Scanner\lib\frame_grabber.js" />
+    <Content Include="Barcode_Scanner\lib\input_stream.js" />
+    <Content Include="Barcode_Scanner\lib\quagga.js" />
+    <Content Include="Barcode_Scanner\plugins\umd.js" />
+    <Content Include="Barcode_Scanner\src\analytics\result_collector.js" />
+    <Content Include="Barcode_Scanner\src\common\array_helper.js" />
+    <Content Include="Barcode_Scanner\src\common\cluster.js" />
+    <Content Include="Barcode_Scanner\src\common\cv_utils.js" />
+    <Content Include="Barcode_Scanner\src\common\events.js" />
+    <Content Include="Barcode_Scanner\src\common\image_debug.js" />
+    <Content Include="Barcode_Scanner\src\common\image_wrapper.js" />
+    <Content Include="Barcode_Scanner\src\common\mediaDevices.js" />
+    <Content Include="Barcode_Scanner\src\common\subImage.js" />
+    <Content Include="Barcode_Scanner\src\common\typedefs.js" />
+    <Content Include="Barcode_Scanner\src\config\config.dev.js" />
+    <Content Include="Barcode_Scanner\src\config\config.js" />
+    <Content Include="Barcode_Scanner\src\config\config.node.js" />
+    <Content Include="Barcode_Scanner\src\config\config.prod.js" />
+    <Content Include="Barcode_Scanner\src\decoder\barcode_decoder.js" />
+    <Content Include="Barcode_Scanner\src\decoder\bresenham.js" />
+    <Content Include="Barcode_Scanner\src\input\camera_access.js" />
+    <Content Include="Barcode_Scanner\src\input\exif_helper.js" />
+    <Content Include="Barcode_Scanner\src\input\frame_grabber.js" />
+    <Content Include="Barcode_Scanner\src\input\image_loader.js" />
+    <Content Include="Barcode_Scanner\src\input\input_stream.js" />
+    <Content Include="Barcode_Scanner\src\locator\barcode_locator.js" />
+    <Content Include="Barcode_Scanner\src\locator\rasterizer.js" />
+    <Content Include="Barcode_Scanner\src\locator\skeletonizer.js" />
+    <Content Include="Barcode_Scanner\src\locator\tracer.js" />
+    <Content Include="Barcode_Scanner\src\quagga.js" />
+    <Content Include="Barcode_Scanner\src\reader\2of5_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\barcode_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\codabar_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\code_128_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\code_39_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\code_39_vin_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\code_93_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\ean_2_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\ean_5_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\ean_8_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\ean_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\i2of5_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\upc_e_reader.js" />
+    <Content Include="Barcode_Scanner\src\reader\upc_reader.js" />
+    <Content Include="Barcode_Scanner\tasks\uglyasm.js" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-012.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-015.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-016.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\2of5\image-017.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\codabar\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_128\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_39_vin\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\code_93\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_8\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\ean_extended\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-011.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-012.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\i2of5\image-013.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-001.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-002.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-003.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-004.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-005.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-006.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-007.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-008.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-009.jpg" />
+    <Content Include="Barcode_Scanner\test\fixtures\upc_e\image-010.jpg" />
+    <Content Include="Barcode_Scanner\test\integration\integration.spec.js" />
+    <Content Include="Barcode_Scanner\test\mocks\mediaDevices.js" />
+    <Content Include="Barcode_Scanner\test\spec\array_helper.spec.js" />
+    <Content Include="Barcode_Scanner\test\spec\barcode_locator.spec.js" />
+    <Content Include="Barcode_Scanner\test\spec\camera_access.spec.js" />
+    <Content Include="Barcode_Scanner\test\spec\cv_utils.spec.js" />
+    <Content Include="Barcode_Scanner\test\spec\events.spec.js" />
+    <Content Include="Barcode_Scanner\test\spec\exif_helper.spec.js" />
+    <Content Include="Barcode_Scanner\test\spec\result_collector.spec.js" />
+    <Content Include="Barcode_Scanner\test\test-main-integration.js" />
+    <Content Include="Barcode_Scanner\test\test-main.js" />
+    <Content Include="Barcode_Scanner\webpack.config.js" />
+    <Content Include="Barcode_Scanner\webpack.config.min.js" />
+    <Content Include="Barcode_Scanner\webpack.node.config.js" />
     <Content Include="css\bootoast.min.css" />
     <Content Include="Default.aspx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -190,6 +425,26 @@
     <Content Include="packages.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Barcode_Scanner\.babelrc" />
+    <Content Include="Barcode_Scanner\.eslintrc" />
+    <Content Include="Barcode_Scanner\.npmignore" />
+    <Content Include="Barcode_Scanner\base_folder\config.rb" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-grid.css.map" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-grid.min.css.map" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-reboot.css.map" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap.css.map" />
+    <Content Include="Barcode_Scanner\base_folder\css\bootstrap.min.css.map" />
+    <Content Include="Barcode_Scanner\bower.json" />
+    <Content Include="Barcode_Scanner\build\end.frag" />
+    <Content Include="Barcode_Scanner\build\start.frag" />
+    <Content Include="Barcode_Scanner\doc\profiles\skel_asm.json" />
+    <Content Include="Barcode_Scanner\doc\readme.md" />
+    <Content Include="Barcode_Scanner\LICENSE" />
+    <Content Include="Barcode_Scanner\package.json" />
+    <Content Include="Barcode_Scanner\README.md" />
+    <Content Include="Barcode_Scanner\server.pem" />
+    <Content Include="Barcode_Scanner\simple-https-server.py" />
     <None Include="Properties\PublishProfiles\qbscout - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\QB_Scout.pubxml" />
     <None Include="Web.Debug.config">
@@ -228,11 +483,18 @@
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
+  <ItemGroup>
+    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <TypeScriptCompile Include="Barcode_Scanner\type-definitions\quagga.d.ts" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
   <ProjectExtensions>

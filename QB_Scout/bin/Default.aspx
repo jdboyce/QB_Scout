@@ -80,9 +80,8 @@
     <!-- Connect To QuickBooks Button -->
  <br />
     <asp:ImageButton id="btnC2QB" runat="server" AlternateText="Connect to Quickbooks"
-           ImageAlign="left"
-           ImageUrl="Barcode_Scanner/base_folder/qb_scout_banner.png"
-                
+           ImageAlign="middle"
+           ImageUrl="Images/C2QB_white_btn_lg_default.png"                
 
            OnClick="ImgC2QB_Click" Height="40px" Width="200px" />
      <br /><br /><br />

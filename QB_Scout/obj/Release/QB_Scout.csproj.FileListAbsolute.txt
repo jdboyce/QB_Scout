@@ -28,7 +28,6 @@ C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.IO
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.IO.FileSystem.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.IO.Pipes.AccessControl.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.IO.Pipes.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\roslyn\System.Security.AccessControl.dll
