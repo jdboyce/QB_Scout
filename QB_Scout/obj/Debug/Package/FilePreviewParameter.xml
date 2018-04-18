@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="qbscout" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Owner\\Desktop\\Home\\Work\ Projects\\QB_Scout\\QB_Scout\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Owner\\Desktop\\Home\\Work\ Projects\\QB_Scout\\QB_Scout\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
