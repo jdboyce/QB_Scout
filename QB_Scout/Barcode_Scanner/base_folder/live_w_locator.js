@@ -169,7 +169,7 @@ $(function() {
                 case 'zoom':
                     return track.applyConstraints({advanced: [{zoom: parseFloat(value)}]});
                 case 'torch':
-                    return track.applyConstraints({advanced: [{torch: !!value}]});
+                    return track.applyConstraints({advanced: [{torch: !!true}]});
                 }
             }
         },
@@ -312,15 +312,17 @@ $(function() {
             }
             else if (input_target.id == "item_text")
             {
-                sku_count += 1;
-                if (sku_count <= 1)
-                {
-                 input_target.value = code;
-                }
-                else
-                {
-                    input_target.value = (code + ", " + input_target.value);
-                }
+
+                input_target.value = code;
+                //sku_count += 1;
+                //if (sku_count <= 1)
+                //{
+                // input_target.value = code;
+                //}
+                //else
+                //{
+                //    input_target.value = (code + ", " + input_target.value);
+                //}
             }
 
         }

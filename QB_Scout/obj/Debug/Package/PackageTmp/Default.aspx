@@ -65,15 +65,15 @@
  <div id="connect" runat="server" visible ="false">
     
   <!-- Sign In With Intuit Button -->
-<%--  <b>Sign In With Intuit</b><br />
+  <%--<b>Sign In With Intuit</b><br />
    <asp:ImageButton id="btnSIWI" runat="server" AlternateText="Sign In With Intuit"
            ImageAlign="left"
            ImageUrl="Images/IntuitSignIn-lg-white@2x.jpg"
-           OnClick="ImgSIWI_Click" Height="40px" Width="200px"/>
+           OnClick="ImgSIWI_Click" Height="40px" Width="200px"/>--%>
 
     
 
-     <br /><br />--%>
+     <%--<br /><br />--%>
      
     <%-- ImageUrl="Images/C2QB_white_btn_lg_default.png"--%>
         
@@ -85,6 +85,8 @@
 
            OnClick="ImgC2QB_Click" Height="40px" Width="200px" />
      <br /><br /><br />
+
+
 
    <!-- Get App Now -->
    <%--<b>Get App Now</b><br />
@@ -292,8 +294,14 @@
                             </label>
                             <!--  style="display: none " -->
                             <label>
-                                <span style="display: none ">Flashlight</span>
-                                <input type="checkbox " name="settings_torch " />
+                                <span>Flashlight</span>
+                                <%--<input type="checkbox " name="settings_torch " />--%>
+                                 <select name="settings_torch ">
+                                     <option value="false" selected="selected ">Off</option>
+                                    <option value="true" >On</option>
+                                    
+                                </select>
+
                             </label>
                         </fieldset>
                     </center>

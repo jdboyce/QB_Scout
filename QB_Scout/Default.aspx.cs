@@ -1186,6 +1186,7 @@ namespace QB_Scout
                 dynamic obj = JObject.Parse(content);
 
                 id = obj.QueryResponse.Item[0].Id;
+
                 syncToken = obj.QueryResponse.Item[0].SyncToken;
             }
 

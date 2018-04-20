@@ -414,9 +414,7 @@
     <Content Include="Barcode_Scanner\webpack.config.min.js" />
     <Content Include="Barcode_Scanner\webpack.node.config.js" />
     <Content Include="css\bootoast.min.css" />
-    <Content Include="Default.aspx">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Default.aspx" />
     <Content Include="Images\C2QB_white_btn_lg_default.png" />
     <Content Include="Images\C2QB_white_btn_lg_hover.png" />
     <Content Include="Images\Get_App.png" />
@@ -469,11 +467,9 @@
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
@@ -484,6 +480,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="bin\" />
     <Folder Include="Images\Logs\" />
   </ItemGroup>
   <ItemGroup>
