@@ -26,6 +26,15 @@
 
     %> 
 
+
+
+    <style>
+        body {
+            background-image: url("Barcode_Scanner/base_folder/hex35.png");
+            background-repeat: repeat;
+        }
+	</style>
+
 </head>
 
 
@@ -149,14 +158,14 @@
 
 
 
-    <header style="background-color: #108c5e;">
-        <hr/>
+    <header><%--108c5e--%>
+        <%--<hr/>--%>
         <div class="headline">
             <center>
-                <img src="Barcode_Scanner/base_folder/qb_scout_banner.png" style="width:60%" alt="JB's Furniture" />
+                <img src="Barcode_Scanner/base_folder/bannerz.png" style="width:60%" alt="JB's Furniture" />
             </center>
         </div>
-        <hr/>
+        <%--<hr/>--%>
     </header>
 
     <section id="container" class="container">
@@ -293,15 +302,9 @@
                                 <select name="settings_zoom "></select>
                             </label>
                             <!--  style="display: none " -->
-                            <label>
+                            <label style="display: none">
                                 <span>Flashlight</span>
-                                <%--<input type="checkbox " name="settings_torch " />--%>
-                                 <select name="settings_torch ">
-                                     <option value="false" selected="selected ">Off</option>
-                                    <option value="true" >On</option>
-                                    
-                                </select>
-
+                                <input type="checkbox " name="settings_torch " />
                             </label>
                         </fieldset>
                     </center>

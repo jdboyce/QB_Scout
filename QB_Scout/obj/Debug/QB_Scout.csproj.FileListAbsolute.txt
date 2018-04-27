@@ -109,6 +109,5 @@ C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\Intuit.Ipp.WebHo
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\Newtonsoft.Json.xml
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\bin\System.ValueTuple.xml
-C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\obj\Debug\QB_Scout.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\obj\Debug\QB_Scout.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QB_Scout\QB_Scout\obj\Debug\QB_Scout.pdb

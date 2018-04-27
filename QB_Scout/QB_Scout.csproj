@@ -181,6 +181,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Barcode_Scanner\base_folder\banner.png" />
+    <Content Include="Barcode_Scanner\base_folder\bannerz.png" />
     <Content Include="Barcode_Scanner\base_folder\camera_example.html" />
     <Content Include="Barcode_Scanner\base_folder\css\bootstrap-grid.css" />
     <Content Include="Barcode_Scanner\base_folder\css\bootstrap-grid.min.css" />
@@ -196,6 +197,7 @@
     <Content Include="Barcode_Scanner\base_folder\css\xmin.css" />
     <Content Include="Barcode_Scanner\base_folder\file_input.html" />
     <Content Include="Barcode_Scanner\base_folder\file_input.js" />
+    <Content Include="Barcode_Scanner\base_folder\hex35.png" />
     <Content Include="Barcode_Scanner\base_folder\index.html" />
     <Content Include="Barcode_Scanner\base_folder\js\bootstrap.js" />
     <Content Include="Barcode_Scanner\base_folder\js\bootstrap.min.js" />
